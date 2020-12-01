@@ -9,9 +9,10 @@
 #return a (latitude,longitude) tuple
 
 from GPSPhoto import gpsphoto
+
 def extractGPS(filename):
     data = gpsphoto.getGPSData(filename)
-    print(data)
+    #print(data)
     latitude = data['Latitude']
     longitude = data['Longitude']
     return (latitude,longitude)
