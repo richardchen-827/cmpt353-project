@@ -1,0 +1,1290 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2020-12-01T03:15:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 290549837,
+  "lat": 49.1639837,
+  "lon": -123.1408621,
+  "tags": {
+    "addr:housenumber": "7700",
+    "addr:street": "Minoru Boulevard",
+    "email": "gallery@richmond.ca",
+    "internet_access": "wlan",
+    "name": "Richmond Art Gallery",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00",
+    "phone": "+1-604-247-8300",
+    "tourism": "museum",
+    "website": "http://www.richmondartgallery.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 310946315,
+  "lat": 49.3309878,
+  "lon": -123.1702013,
+  "tags": {
+    "created_by": "Potlatch 0.10f",
+    "name": "West Vancouver Recreation Centre",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 335749614,
+  "lat": 49.2943999,
+  "lon": -123.1378729,
+  "tags": {
+    "name": "Lost Lagoon Nature House",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 391696665,
+  "lat": 49.2830192,
+  "lon": -123.1099575,
+  "tags": {
+    "name": "CCHQ Vapour Lounge",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 442408115,
+  "lat": 49.4373649,
+  "lon": -122.9670831,
+  "tags": {
+    "name": "Seymour Fish Hatchery",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 473408839,
+  "lat": 49.3722178,
+  "lon": -123.0989948,
+  "tags": {
+    "addr:housenumber": "6400",
+    "addr:street": "Nancy Greene Way",
+    "name": "Grouse Mountain Skyride Base",
+    "opening_hours": "Su-Sa 08:45-22:00; Dec 24 08:30-18:00; Dec 25 08:30-20:00",
+    "phone": "+1-604-986-6262",
+    "tourism": "attraction",
+    "website": "https://grousemountain.com/",
+    "wheelchair": "yes",
+    "wikidata": "Q841926",
+    "wikipedia": "en:Grouse Mountain"
+  }
+},
+{
+  "type": "node",
+  "id": 549653507,
+  "lat": 49.2992295,
+  "lon": -123.1207909,
+  "tags": {
+    "name": "Totem Poles",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 648735254,
+  "lat": 49.2893832,
+  "lon": -123.1176210,
+  "tags": {
+    "historic": "monument",
+    "name": "2010 Olympic Flame",
+    "tourism": "attraction",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 677284036,
+  "lat": 49.2759765,
+  "lon": -123.1427011,
+  "tags": {
+    "name": "City of Vancouver Archives",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 703754423,
+  "lat": 49.2843841,
+  "lon": -123.1088901,
+  "tags": {
+    "addr:housenumber": "305",
+    "addr:street": "Water Street",
+    "amenity": "clock",
+    "display": "analog",
+    "historic": "monument",
+    "name": "Gastown Steam Clock",
+    "support": "ground",
+    "tourism": "attraction",
+    "visibility": "street",
+    "wheelchair": "yes",
+    "wikidata": "Q477663",
+    "wikipedia": "en:Steam clock#Gastown steam clock"
+  }
+},
+{
+  "type": "node",
+  "id": 767621904,
+  "lat": 49.1986153,
+  "lon": -122.5939046,
+  "tags": {
+    "historic": "monument",
+    "name": "Original Fort Langley Site",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 769432327,
+  "lat": 49.0912824,
+  "lon": -123.0855840,
+  "tags": {
+    "name": "Delta Museum and Archives",
+    "tourism": "museum",
+    "website": "http://www.corp.delta.bc.ca/EN/main/residents/museum.html"
+  }
+},
+{
+  "type": "node",
+  "id": 769438439,
+  "lat": 49.0778130,
+  "lon": -123.0786094,
+  "tags": {
+    "name": "Kirkland House",
+    "tourism": "attraction",
+    "website": "www.KirklandHouse.ca"
+  }
+},
+{
+  "type": "node",
+  "id": 770835653,
+  "lat": 49.2409373,
+  "lon": -122.9713136,
+  "tags": {
+    "addr:housenumber": "6344",
+    "addr:street": "Deer Lake Avenue",
+    "name": "Burnaby Art Gallery",
+    "opening_hours": "Tu-Fr 10:00-16:30; Sa-Su 12:00-17:00; Mo off; Dec 23 10:00-12:00; Dec 24-27,Jan 01-2 off",
+    "phone": "+1-604-297-4422",
+    "tourism": "gallery",
+    "website": "https://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery.html"
+  }
+},
+{
+  "type": "node",
+  "id": 770873494,
+  "lat": 49.2394477,
+  "lon": -122.9672589,
+  "tags": {
+    "addr:housenumber": "6501",
+    "addr:street": "Deer Lake Avenue",
+    "email": "bvm@burnaby.ca",
+    "name": "Burnaby Village Museum",
+    "phone": "+1-604-297-4565",
+    "tourism": "museum",
+    "website": "http://www.burnabyvillagemuseum.ca/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 859683780,
+  "lat": 49.2191800,
+  "lon": -123.2139445,
+  "tags": {
+    "name": "Iona Beach Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 878192099,
+  "lat": 49.3019096,
+  "lon": -123.1337742,
+  "tags": {
+    "name": "Miniature Railway",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 906648566,
+  "lat": 49.1136634,
+  "lon": -123.1142399,
+  "tags": {
+    "name": "Finn Slough (Tidal Community)",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 946396051,
+  "lat": 49.2442245,
+  "lon": -122.9358636,
+  "tags": {
+    "addr:city": "Burnaby",
+    "addr:housenumber": "4519",
+    "addr:street": "Piper Avenue",
+    "name": "Burnaby Lake Nature House",
+    "operator": "Metro Vancouver Park",
+    "tourism": "attraction",
+    "website": "http://www.metrovancouver.org/services/parks/discover/visitor-centres/burnaby-lake-nature-house/Pages/default.aspx",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1008923514,
+  "lat": 49.4373714,
+  "lon": -123.5150882,
+  "tags": {
+    "name": "Langdale Falls",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1125976899,
+  "lat": 49.0198967,
+  "lon": -122.8024726,
+  "tags": {
+    "name": "The White Rock",
+    "name:Semiah": "P'quals",
+    "natural": "stone",
+    "note": "the white rock which the town is named after. P'quals is the Semiah name for the White Rock",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1162177016,
+  "lat": 49.2736883,
+  "lon": -123.1213813,
+  "tags": {
+    "fee": "no",
+    "name": "Engine 374 Pavilion",
+    "opening_hours": "Mo-Su 10:00-16:00; Winter Mo-Su 11:00-16:00",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1211948156,
+  "lat": 49.2980289,
+  "lon": -123.1175092,
+  "tags": {
+    "addr:street": "Stanley Park Seawall",
+    "name": "Nine O'Clock Gun",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1379500244,
+  "lat": 49.2823769,
+  "lon": -123.0941561,
+  "tags": {
+    "name": "Totem Pole",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1406209831,
+  "lat": 49.1681490,
+  "lon": -122.5752937,
+  "tags": {
+    "name": "BC Farm Machinery Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1406209839,
+  "lat": 49.1684783,
+  "lon": -122.5749420,
+  "tags": {
+    "name": "Langley Centennial Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 1431596445,
+  "lat": 49.1207839,
+  "lon": -123.1691426,
+  "tags": {
+    "historic": "yes",
+    "name": "Britannia Heritage Shipyards",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2147184803,
+  "lat": 49.2820831,
+  "lon": -123.0981897,
+  "tags": {
+    "addr:housenumber": "240",
+    "addr:street": "East Cordova Street",
+    "name": "Vancouver Police Museum",
+    "opening_hours": "Tu-Sa 09:00-17:00",
+    "phone": "+1-604-665-3346",
+    "tourism": "museum",
+    "website": "http://www.vancouverpolicemuseum.com",
+    "wikidata": "Q2510009"
+  }
+},
+{
+  "type": "node",
+  "id": 2327355724,
+  "lat": 49.2928297,
+  "lon": -123.1306803,
+  "tags": {
+    "alt_name": "Vancouver's Coal Harbour Fellowship Bell",
+    "name": "Fellowship Bell",
+    "source": "survey",
+    "tourism": "attraction",
+    "website": "http://www.waymarking.com/waymarks/WMHEFZ_Coal_Harbour_Fellowship_Bell_Vancouver_BC"
+  }
+},
+{
+  "type": "node",
+  "id": 2410285536,
+  "lat": 49.3069151,
+  "lon": -123.1536164,
+  "tags": {
+    "name": "Hollow Tree",
+    "natural": "tree",
+    "tourism": "attraction",
+    "website": "https://vancouver.ca/parks-recreation-culture/landmarks-in-stanley-park.aspx"
+  }
+},
+{
+  "type": "node",
+  "id": 3027714766,
+  "lat": 49.2789842,
+  "lon": -122.8509982,
+  "tags": {
+    "name": "Port Moody Station",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q7230805",
+    "wikipedia": "en:Port Moody Station Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 3287871761,
+  "lat": 49.0279876,
+  "lon": -122.2648052,
+  "tags": {
+    "alt_name": "in partnership with Science World",
+    "description": "Demonstration Farm",
+    "name": "Bakerview Ecodairy",
+    "opening_hours": "Tu-Fr,Su,PH 11:00-16:00; Sa 10:00-16:00",
+    "phone": "+1-604-557-5481",
+    "tourism": "attraction",
+    "website": "http://www.ecodairy.ca"
+  }
+},
+{
+  "type": "node",
+  "id": 3336642393,
+  "lat": 49.0402184,
+  "lon": -122.2774917,
+  "tags": {
+    "addr:unit": "5",
+    "alt_name": "Indoor Playground & Laser Tag",
+    "fee": "yes",
+    "leisure": "playground",
+    "name": "Play Abby",
+    "opening_hours": "Su,Tu-Th 10:00-17:00; Fr-Sa 10:00-19:00; Mo off",
+    "phone": "+1-604-853-7529",
+    "start_date": "2012-01-12",
+    "tourism": "attraction",
+    "website": "https://www.playabby.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3534838711,
+  "lat": 49.0258370,
+  "lon": -122.3466072,
+  "tags": {
+    "name": "Valley Wake Park",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 3575803697,
+  "lat": 49.0499260,
+  "lon": -122.2908745,
+  "tags": {
+    "addr:unit": "201",
+    "level": "1",
+    "name": "Countdown Escape Rooms",
+    "opening_hours": "Mo-We 16:00-22:00; Th 15:00-22:00; Fr 15:00-23:00; Sa 11:00-23:00; Su 12:00-22:00",
+    "phone": "+1-604-744-0027",
+    "tourism": "attraction",
+    "website": "https://www.countdownescaperooms.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3633787193,
+  "lat": 49.0615884,
+  "lon": -122.3244289,
+  "tags": {
+    "level": "0",
+    "name": "Abbotsford Sports Hall of Fame",
+    "opening_hours": "Tu 12:00-16:00; Sa-Su 13:00-16:00",
+    "tourism": "museum",
+    "website": "https://www.abbysportshalloffame.ca/"
+  }
+},
+{
+  "type": "node",
+  "id": 3798834384,
+  "lat": 49.2848345,
+  "lon": -123.1168041,
+  "tags": {
+    "addr:housenumber": "549",
+    "addr:street": "Howe Street",
+    "name": "Chali Rosso",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 3935138387,
+  "lat": 49.2784067,
+  "lon": -123.1187599,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "901",
+    "addr:street": "Homer Street",
+    "name": "Harrison Galleries",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 4001563890,
+  "lat": 49.2814910,
+  "lon": -123.1121571,
+  "tags": {
+    "addr:housenumber": "555",
+    "addr:street": "Hamilton Street",
+    "name": "Or",
+    "tourism": "gallery",
+    "wikidata": "Q7099175"
+  }
+},
+{
+  "type": "node",
+  "id": 4086836890,
+  "lat": 49.3711988,
+  "lon": -123.0983777,
+  "tags": {
+    "addr:housenumber": "6400",
+    "addr:street": "Nancy Greene Way",
+    "name": "Grouse Grind Trailhead",
+    "tourism": "attraction",
+    "website": "https://www.grousemountain.com/grousegrind"
+  }
+},
+{
+  "type": "node",
+  "id": 4137870589,
+  "lat": 49.3520981,
+  "lon": -123.2477693,
+  "tags": {
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4139735316,
+  "lat": 49.1244353,
+  "lon": -123.1840021,
+  "tags": {
+    "name": "Vancouver Whale Watch",
+    "tourism": "attraction",
+    "website": "http://www.vancouverwhalewatch.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4173605592,
+  "lat": 49.0200415,
+  "lon": -122.3864905,
+  "tags": {
+    "aircraft:type": "McDonnell CF-101 Voodoo",
+    "description": "Serial number 101035 ",
+    "historic": "aircraft",
+    "name": "CF-101 Voodoo",
+    "source:url": "http://www.abbotsfordairport.ca/AssetFactory.aspx?did=19004",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4215844490,
+  "lat": 49.2763502,
+  "lon": -123.1449814,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1100",
+    "addr:street": "Chestnut Street",
+    "alt_name": "Pacific Space Centre",
+    "loc_name": "Planetarium",
+    "name": "H. R. MacMillan Space Centre",
+    "phone": "+1-604-738-7827",
+    "tourism": "museum",
+    "website": "https://www.spacecentre.ca/",
+    "wheelchair": "yes",
+    "wikidata": "Q4244994",
+    "wikipedia": "en:H. R. MacMillan Space Centre"
+  }
+},
+{
+  "type": "node",
+  "id": 4331972693,
+  "lat": 49.1997034,
+  "lon": -122.9119529,
+  "tags": {
+    "addr:city": "New Westminster",
+    "addr:housenumber": "888",
+    "addr:street": "Quayside Drive",
+    "description": "The Samson V, launched in 1937, is the last surviving wooden steam-powered sternwheeler built for the federal Department of Public Works for use as a snag-boat on the Fraser River.",
+    "fee": "donation",
+    "name": "The Samson V Museum",
+    "operator": "City of New Westminster",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4355937903,
+  "lat": 49.1537742,
+  "lon": -122.5255942,
+  "tags": {
+    "addr:housenumber": "8301",
+    "addr:street": "252 Street",
+    "name": "Eagle Acres Dairy",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4527806892,
+  "lat": 49.1624197,
+  "lon": -122.8425278,
+  "tags": {
+    "name": "Surrey Art Gallery",
+    "opening_hours": "Tu-Th 09:00-21:00; Fr 09:00-17:00; Sa 10:00-17:00; Su 12:00-17:00; Mo,Dec 25-Jan 01, PH off",
+    "phone": "+1-604-501-5566",
+    "tourism": "gallery",
+    "website": "https://www.surrey.ca/culture-recreation/1537.aspx",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4536290399,
+  "lat": 49.1266488,
+  "lon": -123.1823304,
+  "tags": {
+    "addr:housenumber": "#8 - 3891",
+    "addr:postcode": "V7E 2Z6",
+    "addr:street": "Chatham Street",
+    "email": "sales@phoenixartworkshop.com",
+    "name": "Phoenix Art Workshop",
+    "name:en": "Phoenix Art Workshop",
+    "opening_hours": "Mo-Sa 10:00-18:00",
+    "phone": "+1-604-448-1860",
+    "tourism": "attraction",
+    "website": "https://phoenixartworkshop.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4549642290,
+  "lat": 49.0485186,
+  "lon": -122.3121256,
+  "tags": {
+    "craft": "photographer",
+    "level": "0",
+    "name": "Santa Village",
+    "opening_hours": "Mo,Tu,Sa 09:30-18:00; We-Fr 09:30-21:00; Su,PH 11:00-18:00",
+    "seasonal": "christmas",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4573880691,
+  "lat": 48.9992899,
+  "lon": -123.0559418,
+  "tags": {
+    "addr:housenumber": "1815",
+    "addr:postcode": "98281",
+    "addr:street": "Province Road",
+    "name": "Bebe Home",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4626211089,
+  "lat": 49.1375180,
+  "lon": -122.2862387,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "The Bell of Friendship",
+    "memorial": "bell",
+    "official_name": "Oyama Bell of Friendship",
+    "start_date": "2013",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4640728689,
+  "lat": 49.2695802,
+  "lon": -123.1427277,
+  "tags": {
+    "addr:housenumber": "1684",
+    "addr:street": "West 2nd Avenue",
+    "name": "Francl Architecture",
+    "name:en": "Francl Architecture",
+    "opening_hours": "Mo-Fr 08:30-17:00",
+    "phone": "+1-604-688-3252",
+    "tourism": "attraction",
+    "website": "https://franclarchitecture.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4670677119,
+  "lat": 49.2600338,
+  "lon": -123.2488759,
+  "tags": {
+    "historic": "monument",
+    "name": "Reconciliation Pole",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4733036452,
+  "lat": 49.3998362,
+  "lon": -123.5094247,
+  "tags": {
+    "addr:housenumber": "716",
+    "addr:street": "Winn Road",
+    "name": "Sunshine Coast Museum & Archives",
+    "opening_hours": "Tu-Sa 10:30-16:30",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 4770571921,
+  "lat": 49.2817994,
+  "lon": -123.1333798,
+  "tags": {
+    "name": "Gay Village",
+    "name:en": "Gay Village",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4789210421,
+  "lat": 49.1320644,
+  "lon": -122.5440154,
+  "tags": {
+    "addr:housenumber": "24550",
+    "addr:street": "72 Avenue",
+    "name": "Thunderbird Show Park",
+    "name:en": "Thunderbird Show Park",
+    "tourism": "attraction",
+    "website": "https://www.tbird.ca"
+  }
+},
+{
+  "type": "node",
+  "id": 4807919627,
+  "lat": 49.0461901,
+  "lon": -122.2068454,
+  "tags": {
+    "addr:street": "North Parallel Road",
+    "name": "Bloom Abbotsford Tulip Festival",
+    "name:en": "Bloom Abbotsford Tulip Festival",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4853395421,
+  "lat": 49.1925306,
+  "lon": -123.1791754,
+  "tags": {
+    "name": "Vancouver International Airport",
+    "name:en": "Vancouver International airport",
+    "name:it": "Aeroporto Internazionale di Vancouver",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4876228321,
+  "lat": 49.1802256,
+  "lon": -123.1519278,
+  "tags": {
+    "addr:housenumber": "105-6080",
+    "addr:street": "Russ Baker Way",
+    "name": "Flight City",
+    "name:en": "Flight City",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:00",
+    "phone": "+1-604-244-0140",
+    "tourism": "attraction",
+    "website": "https://www.facebook.com/FlightCityVancouver/"
+  }
+},
+{
+  "type": "node",
+  "id": 4898690102,
+  "lat": 49.1235754,
+  "lon": -123.1812285,
+  "tags": {
+    "name": "Steveston Seabreeze Adventures",
+    "phone": "+1-604-272-7200",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 4911916975,
+  "lat": 49.2384102,
+  "lon": -123.0502439,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "2717",
+    "addr:street": "Kingsway",
+    "name": "Art Works Studio",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 5004169222,
+  "lat": 49.2763939,
+  "lon": -123.1206725,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1063",
+    "addr:street": "Hamilton Street",
+    "name": "The Space Art Gallery",
+    "name:en": "The Space Art Gallery",
+    "opening_hours": "Mo-Sa 12:00-20:00",
+    "phone": "+1-778-997-4049",
+    "tourism": "gallery",
+    "website": "https://www.thespaceanartgallery.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5029773122,
+  "lat": 49.3978628,
+  "lon": -123.5070867,
+  "tags": {
+    "name": "Gibsons Marina",
+    "name:en": "Gibsons Marina",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5184318003,
+  "lat": 49.2851447,
+  "lon": -123.1140076,
+  "tags": {
+    "amenity": "clock",
+    "display": "analog",
+    "faces": "4",
+    "name": "Birks Clock",
+    "old_name": "Trorey",
+    "operator": "Birks",
+    "support": "pole",
+    "tourism": "attraction",
+    "visibility": "street"
+  }
+},
+{
+  "type": "node",
+  "id": 5314283532,
+  "lat": 49.1992729,
+  "lon": -122.5570593,
+  "tags": {
+    "name": "Kanaka Creek Fish Fence",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5324883305,
+  "lat": 49.2802242,
+  "lon": -123.1033596,
+  "tags": {
+    "name": "Chinese Cultural Centre",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5629478421,
+  "lat": 49.2846556,
+  "lon": -123.1138977,
+  "tags": {
+    "alt_name": "Alley-Oop",
+    "name": "The Pink Alley",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5702888322,
+  "lat": 49.1248891,
+  "lon": -123.0963053,
+  "tags": {
+    "name": "DanD",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5827688486,
+  "lat": 49.3800162,
+  "lon": -123.3388242,
+  "tags": {
+    "name": "Bowen Island Historians Museum and Archive",
+    "tourism": "museum",
+    "website": "https://bowenislandmuseum.ca"
+  }
+},
+{
+  "type": "node",
+  "id": 5847795785,
+  "lat": 49.3266818,
+  "lon": -122.9501214,
+  "tags": {
+    "addr:housenumber": "4373",
+    "addr:street": "Gallant Avenue",
+    "amenity": "cafe",
+    "cuisine": "donut",
+    "level": "0",
+    "name": "Honey Doughnuts & Goodies",
+    "opening_hours": "06:00-17:00;Dec 7 06:00-16:00;Dec 24 06:00-14:00;Dec 25 off;Dec 26 off;Dec 31 06:00-14:00;Jan 1 08:00-16:00",
+    "phone": "+1-604-929-4988",
+    "tourism": "attraction",
+    "website": "https://honeydoughnuts.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5907368085,
+  "lat": 49.4017559,
+  "lon": -123.5057644,
+  "tags": {
+    "name": "Persephone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 5962996685,
+  "lat": 49.4026306,
+  "lon": -123.3599237,
+  "tags": {
+    "name": "Opa tree",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6040537017,
+  "lat": 49.3794896,
+  "lon": -123.3378063,
+  "tags": {
+    "name": "Catching Stars Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6089281216,
+  "lat": 49.2624508,
+  "lon": -123.2523425,
+  "tags": {
+    "name": "Pacific Museum of Earth",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6180068144,
+  "lat": 49.3005556,
+  "lon": -123.1309192,
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "845",
+    "addr:postcode": "V6G 3E2",
+    "addr:street": "Avison Way",
+    "name": "Vancouver Aquarium",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6204822799,
+  "lat": 49.1354712,
+  "lon": -122.3047067,
+  "tags": {
+    "addr:housenumber": "33201",
+    "addr:street": "2nd Avenue",
+    "name": "Mission Museum",
+    "opening_hours": "Th,Fr 10:00-16:00; Sa 10:00-13:00; Su-We off; Dec 22-Jan 09 off",
+    "phone": "+1-604-826-1011",
+    "tourism": "museum",
+    "website": "https://missionmuseum.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6208815370,
+  "lat": 49.0147752,
+  "lon": -122.6551510,
+  "tags": {
+    "museum": "nature",
+    "name": "Nature House at Red Barn",
+    "opening_hours": "May 15-Sep 07 Sa-Su,PH,Mo 13:00-16:00; May 15-Sep 07 We 10:00-13:00",
+    "operator": "Metro Vancouver Parks",
+    "tourism": "museum",
+    "website": "http://www.metrovancouver.org/services/parks/discover/visitor-centres/campbell-valley-nature-house/Pages/default.aspx"
+  }
+},
+{
+  "type": "node",
+  "id": 6210697100,
+  "lat": 49.2078392,
+  "lon": -122.9063479,
+  "tags": {
+    "addr:city": "New Westminster",
+    "addr:housenumber": "302",
+    "addr:street": "Royal Avenue",
+    "description": "Located in the heart of the Royal City, Irving House is one of the oldest community heritage sites in BC. Step back to the 1800s as you enter the colonial home of Captain William Irving, King of the Fraser River.",
+    "fee": "donation",
+    "museum_type": "history",
+    "name": "Irving House",
+    "opening_hours": "Sa-Su 12:00-16:00; Mo-Fr off",
+    "operator": "City of New Westminster",
+    "tourism": "museum",
+    "website": "https://www.newwestcity.ca/services/arts-and-heritage/museums-and-archives/sb_expander_articles/657.php"
+  }
+},
+{
+  "type": "node",
+  "id": 6210718885,
+  "lat": 49.2015657,
+  "lon": -122.9114161,
+  "tags": {
+    "addr:city": "New Westminster",
+    "addr:housenumber": "777",
+    "addr:street": "Columbia Street",
+    "addr:unit": "3rd Floor",
+    "fee": "donation",
+    "museum": "history",
+    "museum_type": "municipal",
+    "name": "New Westminster Museum",
+    "opening_hours": "Fr-We 10:00-17:00; Th 10:00-20:00",
+    "operator": "City of New Westminster",
+    "tourism": "museum",
+    "website": "https://www.newwestcity.ca/services/arts-and-heritage/museums-and-archives"
+  }
+},
+{
+  "type": "node",
+  "id": 6212335149,
+  "lat": 49.0267603,
+  "lon": -122.4274613,
+  "tags": {
+    "addr:housenumber": "1364",
+    "addr:street": "Bradner Road",
+    "fishing": "private",
+    "leisure": "fishing",
+    "name": "Silverbrook U-catch Trout Farm",
+    "opening_hours": "Sa,Su,PH 09:00-16:00",
+    "tourism": "attraction",
+    "website": "http://www.fishbctrout.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6216807227,
+  "lat": 49.2721894,
+  "lon": -123.1337010,
+  "tags": {
+    "description": "A West Coast fishing vessel that is now permanently on display under the Granville Street Bridge.",
+    "name": "The Relief",
+    "start_date": "1929",
+    "tourism": "attraction",
+    "website": "https://granvilleisland.com/secrets/relief"
+  }
+},
+{
+  "type": "node",
+  "id": 6219934866,
+  "lat": 49.3269751,
+  "lon": -123.1548829,
+  "tags": {
+    "addr:housenumber": "1414",
+    "addr:street": "Argyle Avenue",
+    "name": "Ferry Building Gallery",
+    "opening_hours": "Tu-Su 11:00-17:00; Mo off",
+    "phone": "+1-604-925-7290",
+    "tourism": "gallery",
+    "website": "https://ferrybuildinggallery.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6418708017,
+  "lat": 49.2272023,
+  "lon": -122.9999028,
+  "tags": {
+    "level": "0",
+    "name": "Blue Lotus Art Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6442204141,
+  "lat": 49.1032846,
+  "lon": -122.6563137,
+  "tags": {
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6445812111,
+  "lat": 49.4217367,
+  "lon": -123.4961412,
+  "tags": {
+    "addr:street": "Bridgeman Road",
+    "name": "Soames Hill Trailhead",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6466107377,
+  "lat": 49.2036515,
+  "lon": -122.9047866,
+  "tags": {
+    "name": "Historical Photo Wall",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6543623688,
+  "lat": 49.2795251,
+  "lon": -122.9144362,
+  "tags": {
+    "addr:street": "Saywell Hall",
+    "name": "Museum of Archaeology & Ethnology",
+    "opening_hours": "Mo-Fr 10:00-12:00,13:00-16:00",
+    "phone": "+1-778-782-3325",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "node",
+  "id": 6696438147,
+  "lat": 49.2004517,
+  "lon": -122.9102069,
+  "tags": {
+    "addr:housenumber": "788",
+    "addr:street": "Quayside Drive",
+    "name": "Fraser River Discovery Centre",
+    "tourism": "museum",
+    "website": "https://www.fraserriverdiscovery.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 6773530954,
+  "lat": 49.0349876,
+  "lon": -123.0677214,
+  "tags": {
+    "addr:housenumber": "1710",
+    "addr:street": "56 Street",
+    "name": "South Delta Artists Guild Art Gallery",
+    "operator": "South Delta Artists Guild",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6773726348,
+  "lat": 49.0903544,
+  "lon": -123.0841434,
+  "tags": {
+    "name": "Michael Abraham Studio Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 6831184233,
+  "lat": 49.1679877,
+  "lon": -122.5713552,
+  "tags": {
+    "historic": "yes",
+    "name": "Fur_Press",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 6920899503,
+  "lat": 49.2481740,
+  "lon": -122.8078240,
+  "tags": {
+    "name": "S.P.A.R.C. Museum",
+    "opening_hours": "Su 10:00-16:00",
+    "tourism": "museum",
+    "website": "https://sparcradio.ca"
+  }
+},
+{
+  "type": "node",
+  "id": 7019610623,
+  "lat": 49.1622785,
+  "lon": -122.4869484,
+  "tags": {
+    "addr:housenumber": "26805",
+    "addr:postcode": "V1M 3L8",
+    "addr:street": "88 Avenue",
+    "crop": "cranberry",
+    "name": "The Bog at Riverside Cranberry Farm",
+    "shop": "farm",
+    "tourism": "attraction",
+    "website": "https://m.facebook.com/theriversidebog"
+  }
+},
+{
+  "type": "node",
+  "id": 7076672315,
+  "lat": 49.3269483,
+  "lon": -122.9502997,
+  "tags": {
+    "name": "Seymour Art Gallery",
+    "tourism": "gallery",
+    "website": "https://www.seymourartgallery.com"
+  }
+},
+{
+  "type": "node",
+  "id": 7141266468,
+  "lat": 49.2627852,
+  "lon": -123.1023371,
+  "tags": {
+    "addr:housenumber": "120",
+    "addr:street": "East Broadway",
+    "name": "Hill's Native Ar Gallerty",
+    "opening_hours": "Su-Sa 10:00-19:00",
+    "phone": "+1-604-685-4249",
+    "tourism": "gallery",
+    "website": "http://www.hills.ca/hill-s-native-art-gallery-vancouver-18.html"
+  }
+},
+{
+  "type": "node",
+  "id": 7415087886,
+  "lat": 49.3864923,
+  "lon": -123.5198963,
+  "tags": {
+    "name": "Secret Beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 7508991870,
+  "lat": 49.2765511,
+  "lon": -123.0704529,
+  "tags": {
+    "addr:housenumber": "1636",
+    "addr:street": "Venables Street",
+    "name": "Slice of Life",
+    "tourism": "gallery",
+    "website": "https://sliceoflifevancouver.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7545611407,
+  "lat": 49.2544087,
+  "lon": -123.1976390,
+  "tags": {
+    "description": "A close up look at 3,000 year old bog on the edge of Vancouver.",
+    "fee": "no",
+    "name": "Camosun Bog | xʷməm̓qʷe:m",
+    "operator": "Metro Vancouver Parks",
+    "tourism": "attraction",
+    "website": "http://camosunbog.ca/"
+  }
+},
+{
+  "type": "node",
+  "id": 7895730690,
+  "lat": 49.1329545,
+  "lon": -123.0813951,
+  "tags": {
+    "name": "Richmond Sunflower Festival",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 8104401142,
+  "lat": 49.1695844,
+  "lon": -123.1361622,
+  "tags": {
+    "name": "Xinde Antique Gallery",
+    "tourism": "gallery"
+  }
+}
+
+  ]
+}

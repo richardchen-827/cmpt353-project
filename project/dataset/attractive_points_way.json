@@ -1,0 +1,3225 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2020-12-01T03:16:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 25495836,
+  "center": {
+    "lat": 49.0921334,
+    "lon": -122.4870069
+  },
+  "nodes": [
+    277815920,
+    277815921,
+    277815922,
+    7560970496,
+    7560970497,
+    277815923,
+    4249222567,
+    277815920
+  ],
+  "tags": {
+    "addr:housenumber": "5048",
+    "addr:street": "264 Street",
+    "is_in": "Aldergrove, Langley, British Columbia",
+    "name": "Greater Vancouver Zoo",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 32896473,
+  "center": {
+    "lat": 49.2759951,
+    "lon": -123.0706414
+  },
+  "nodes": [
+    370490167,
+    5577882816,
+    5577882808,
+    5577882809,
+    5577882810,
+    5577882811,
+    370490168,
+    370490169,
+    370490170,
+    5577882817,
+    370490167
+  ],
+  "tags": {
+    "addr:housenumber": "1661",
+    "addr:street": "Parker Street",
+    "building": "yes",
+    "leisure": "ice_rink",
+    "name": "Britannia Icerink",
+    "name:en": "Britannia Icerink",
+    "sport": "ice_skating",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 33176178,
+  "center": {
+    "lat": 49.2694664,
+    "lon": -123.2593600
+  },
+  "nodes": [
+    375771652,
+    375771653,
+    1237906019,
+    971096708,
+    971096814,
+    971096772,
+    971096802,
+    971096700,
+    971096689,
+    971096812,
+    971096783,
+    971096776,
+    375771654,
+    971096769,
+    971096701,
+    971096683,
+    971096730,
+    971096747,
+    971096716,
+    375771656,
+    375771657,
+    375771659,
+    971096784,
+    375771661,
+    971096696,
+    971096726,
+    971096760,
+    971096795,
+    375771662,
+    971096744,
+    1237906167,
+    971096714,
+    375771664,
+    375771665,
+    1038910228,
+    971096781,
+    971096693,
+    2754803376,
+    375771667,
+    971096722,
+    971096757,
+    971096794,
+    375771668,
+    1237906134,
+    375771652
+  ],
+  "tags": {
+    "addr:housenumber": "6393",
+    "addr:street": "Northwest Marine Drive",
+    "building": "yes",
+    "name": "Museum of Anthropology",
+    "opening_hours": "Su-Sa 10:00-17:00; Th 10:00-21:00; Oct 15-May 15: Mo off; Dec 25 off",
+    "phone": "+1-604-822-5087",
+    "source": "BC Government Openmaps",
+    "tourism": "museum",
+    "website": "https://moa.ubc.ca/",
+    "wheelchair": "yes",
+    "wikidata": "Q1954743",
+    "wikipedia": "en:Museum of Anthropology at UBC"
+  }
+},
+{
+  "type": "way",
+  "id": 36810745,
+  "center": {
+    "lat": 49.2681817,
+    "lon": -123.2561948
+  },
+  "nodes": [
+    427893042,
+    427893043,
+    971076372,
+    971949125,
+    427893044,
+    427893045,
+    7455006127,
+    427893046,
+    971076198,
+    971076109,
+    427893047,
+    427893042
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1825",
+    "addr:postcode": "V6T 1Z2",
+    "addr:street": "Main Mall",
+    "building": "yes",
+    "name": "Belkin Art Gallery",
+    "opening_hours": "Tu-Fr 10:00-17:00; Sa-Su 12:00-17:00; Mo,PH off",
+    "phone": "+1-604-822-2759",
+    "source": "BC Government Openmaps",
+    "tourism": "gallery",
+    "website": "https://belkin.ubc.ca/",
+    "wheelchair": "yes",
+    "wikidata": "Q6913959",
+    "wikipedia": "en:Morris and Helen Belkin Art Gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 36835375,
+  "center": {
+    "lat": 49.2632137,
+    "lon": -123.2509259
+  },
+  "nodes": [
+    428210524,
+    428210525,
+    1036554530,
+    1036554528,
+    428210524
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Beaty Biodiversity Centre and Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 37084312,
+  "center": {
+    "lat": 49.2734536,
+    "lon": -123.1036623
+  },
+  "nodes": [
+    431291764,
+    431291766,
+    3672690280,
+    3672690279,
+    3672690278,
+    1209295840,
+    1209295848,
+    431291768,
+    431291770,
+    431291772,
+    3672690274,
+    3672690275,
+    431291775,
+    3672690276,
+    3672690277,
+    1209295838,
+    1209295845,
+    3672762741,
+    7564377147,
+    431291779,
+    431291782,
+    1209295853,
+    1209295844,
+    1209295846,
+    431291784,
+    431291786,
+    431291788,
+    431291789,
+    431291790,
+    431291791,
+    431291792,
+    1209296226,
+    1209295847,
+    1209295842,
+    3672690285,
+    3672690284,
+    3672690283,
+    1209295851,
+    431291798,
+    1209295850,
+    431291799,
+    1209295843,
+    431291800,
+    431291801,
+    431291764
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1455",
+    "addr:postcode": "V6A 3Z7",
+    "addr:street": "Quebec Street",
+    "alt_name": "Science World at Telus World of Science",
+    "building": "yes",
+    "name": "Science World",
+    "name:ko": "사이언스 월드",
+    "note": "\"TELUS World of Science\" is the legal name, but everyone calls it \"Science World\", even they themselves on their website.",
+    "official_name": "TELUS World of Science",
+    "opening_hours": "Mo-Fr 10:00-17:00; Sa-Su 10:00-18:00; PH off",
+    "opening_hours:url": "http://scienceworld.ca/hoursrates",
+    "phone": "+1-604-443-7440",
+    "tourism": "museum",
+    "website": "https://scienceworld.ca/",
+    "wheelchair": "yes",
+    "wikidata": "Q1391769",
+    "wikipedia": "en:Science World (Vancouver)"
+  }
+},
+{
+  "type": "way",
+  "id": 37111640,
+  "center": {
+    "lat": 49.2796573,
+    "lon": -123.1154047
+  },
+  "nodes": [
+    3044812756,
+    3649870024,
+    3044812755,
+    3044812754,
+    3649870023,
+    3649870022,
+    3044812753,
+    3044812741,
+    3649870230,
+    3649870232,
+    3649870275,
+    3649870233,
+    3649870021,
+    3044812752,
+    3044812751,
+    3649869981,
+    3649870020,
+    3044812750,
+    3649870019,
+    3044812749,
+    3044812748,
+    3044812747,
+    6157858793,
+    3044812746,
+    431614305,
+    1712253678,
+    3044812745,
+    3044812744,
+    3044812743,
+    3044812742,
+    431614311,
+    3651466906,
+    3651466907,
+    3651466908,
+    3651466909,
+    3651466910,
+    3651466911,
+    3651466912,
+    3651466913,
+    3651466914,
+    3651466915,
+    3651466916,
+    3651466918,
+    3651466919,
+    3651466920,
+    3651466921,
+    3651466922,
+    3651466923,
+    3651467034,
+    3651467035,
+    3651467036,
+    3651467033,
+    3651467032,
+    3651467031,
+    3651467030,
+    3651467029,
+    3651467028,
+    3651467027,
+    3651467026,
+    3651467025,
+    3651466924,
+    3651467038,
+    3651467039,
+    3651467040,
+    3651467041,
+    3651467042,
+    3649870270,
+    3649870266,
+    3649870261,
+    3649870260,
+    431614313,
+    3044812771,
+    3044812770,
+    3044812769,
+    3649870258,
+    3044812767,
+    3044812768,
+    3044812766,
+    6157858794,
+    3044812765,
+    3044812764,
+    3649870227,
+    3044812763,
+    3044812762,
+    3044812761,
+    3649870226,
+    3044812760,
+    3044812759,
+    3649870231,
+    3649870235,
+    3649870276,
+    3649870234,
+    3044812758,
+    3044812757,
+    3649870225,
+    3044812756
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "350",
+    "addr:postcode": "V6B 6B1",
+    "addr:street": "West Georgia Street",
+    "alt_name": "Central Library",
+    "amenity": "library",
+    "building": "yes",
+    "name": "Vancouver Public Library",
+    "name:ko": "밴쿠버 공립 도서관",
+    "opening_hours": "Mo-Th 10:00-21:00; Fr 10:00-18:00; Sa 10:00-18:00; Su 11:00-18:00",
+    "operator": "City of Vancouver",
+    "tourism": "attraction",
+    "wikidata": "Q1376408"
+  }
+},
+{
+  "type": "way",
+  "id": 41769219,
+  "center": {
+    "lat": 49.2827658,
+    "lon": -123.0364978
+  },
+  "nodes": [
+    514771593,
+    3648096729,
+    3654948141,
+    3654948134,
+    7118149057,
+    3432627671,
+    7118149060,
+    3654948137,
+    3654948145,
+    3654948128,
+    514771602,
+    3432691015,
+    3641651014,
+    514771619,
+    3654948129,
+    3994583754,
+    3654948139,
+    514771634,
+    3994583752,
+    3994583756,
+    1036446570,
+    1036446537,
+    1036445680,
+    1036446481,
+    5875320753,
+    3654948136,
+    3654948135,
+    514771657,
+    3432610814,
+    1036446484,
+    3654948147,
+    3654948130,
+    514771718,
+    3654948131,
+    3654948140,
+    3654948142,
+    514771726,
+    3432688161,
+    514771593
+  ],
+  "tags": {
+    "barrier": "fence",
+    "landuse": "recreation_ground",
+    "name": "Playland",
+    "tourism": "theme_park",
+    "website": "https://www.pne.ca/playland/",
+    "wikidata": "Q3392121"
+  }
+},
+{
+  "type": "way",
+  "id": 55478075,
+  "center": {
+    "lat": 49.3601337,
+    "lon": -123.1107277
+  },
+  "nodes": [
+    697187613,
+    697188351,
+    3942480735,
+    255698799,
+    255798277,
+    857809189,
+    255798278,
+    255698800,
+    255798471,
+    697187795,
+    857785695,
+    697187613
+  ],
+  "tags": {
+    "area": "yes",
+    "name": "Cleveland Dam",
+    "tourism": "attraction",
+    "waterway": "dam"
+  }
+},
+{
+  "type": "way",
+  "id": 58305151,
+  "center": {
+    "lat": 49.3004811,
+    "lon": -123.1312075
+  },
+  "nodes": [
+    722995722,
+    722995737,
+    722995753,
+    1692226762,
+    722995778,
+    2013006496,
+    2013006497,
+    2013006499,
+    722995793,
+    722995815,
+    3710734530,
+    722995836,
+    4013660796,
+    4013660812,
+    2013006531,
+    2013006521,
+    6991088757,
+    722995863,
+    722995883,
+    722995901,
+    722995722
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "845",
+    "addr:postcode": "V6G 3E2",
+    "addr:street": "Avison Way",
+    "name": "Vancouver Aquarium",
+    "opening_hours": "Su-Sa 10:00-17:00",
+    "phone": "+1-604-659-3474",
+    "tourism": "aquarium",
+    "website": "https://www.vanaqua.org/",
+    "wikidata": "Q185228",
+    "wikipedia": "en:Vancouver Aquarium"
+  }
+},
+{
+  "type": "way",
+  "id": 60608401,
+  "center": {
+    "lat": 49.3427413,
+    "lon": -123.1149963
+  },
+  "nodes": [
+    697187490,
+    1220024534,
+    757446178,
+    757446150,
+    757446184,
+    757446156,
+    757446119,
+    3945177364,
+    255712045,
+    783673130,
+    3740230434,
+    256348088,
+    3740230435,
+    3740225830,
+    256348152,
+    3740226033,
+    3740237125,
+    3740225633,
+    256348151,
+    757446197,
+    255712044,
+    1801294313,
+    1801294317,
+    1801294318,
+    1219576547,
+    1801294320,
+    1801294319,
+    1801294315,
+    1801294316,
+    1801294314,
+    1220024535,
+    1219576495,
+    1219576476,
+    3945177366,
+    757446122,
+    697187537,
+    3942480603,
+    697187697,
+    757446175,
+    757446115,
+    757446210,
+    757446166,
+    757446140,
+    697187490
+  ],
+  "tags": {
+    "addr:housenumber": "3735",
+    "addr:street": "Capilano Road",
+    "name": "Capilano Suspension Bridge",
+    "opening_hours": "Jan 09-Mar 10 09:00-17:00; Mar 11-Apr 21 09:00-18:00; Apr 22-May 26 09:00-19:00; May 27-Sep 04 08:30-20:00; Sep 05-Oct 09 09:00-18:00; Oct 10-Nov 23 09:00-17:00; Nov 24-Jan 08 11:00-21:00; Dec 25 off",
+    "phone": "+1-604-985-7474",
+    "tourism": "attraction",
+    "website": "https://www.capbridge.com/",
+    "wheelchair": "limited",
+    "wikidata": "Q862283",
+    "wikipedia": "en:Capilano Suspension Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 61759198,
+  "center": {
+    "lat": 49.1706420,
+    "lon": -122.5783378
+  },
+  "nodes": [
+    769454690,
+    769454728,
+    769454792,
+    769454675,
+    769454748,
+    769454698,
+    769454690
+  ],
+  "tags": {
+    "addr:city": "Langley",
+    "addr:housenumber": "23245",
+    "addr:province": "BC",
+    "addr:street": "Mavis Avenue",
+    "building": "yes",
+    "museum": "history",
+    "name": "Fort Langley CN Station",
+    "operator": "Langley Heritage Society",
+    "public_transport": "no",
+    "start_date": "1915",
+    "tourism": "museum",
+    "train": "no",
+    "website": "http://www.langleyheritage.ca/cn-station/"
+  }
+},
+{
+  "type": "way",
+  "id": 69539807,
+  "center": {
+    "lat": 49.0993295,
+    "lon": -122.6261669
+  },
+  "nodes": [
+    832301667,
+    832301538,
+    2756522762,
+    832301601,
+    832301582,
+    2756522794,
+    832301667
+  ],
+  "tags": {
+    "addr:city": "Langley",
+    "addr:housenumber": "5333",
+    "addr:street": "216 Street",
+    "building": "yes",
+    "name": "Canadian Museum of Flight",
+    "opening_hours": "Mo-Sa 10:00-16:00",
+    "start_date": "1996",
+    "tourism": "museum",
+    "website": "http://www.canadianflight.org"
+  }
+},
+{
+  "type": "way",
+  "id": 69701736,
+  "center": {
+    "lat": 49.2828842,
+    "lon": -123.1206588
+  },
+  "nodes": [
+    833617458,
+    3663683629,
+    3663683630,
+    2691528100,
+    3663683628,
+    833617459,
+    3663683627,
+    3834539564,
+    3834539561,
+    833617460,
+    1497978863,
+    5464008270,
+    833617461,
+    1497978865,
+    3663664819,
+    3666167640,
+    3666167639,
+    3663664818,
+    833617462,
+    1497996611,
+    3663664823,
+    833617463,
+    3663664822,
+    833617464,
+    8127168498,
+    3663664821,
+    3663664824,
+    3663664817,
+    3663683625,
+    3663664816,
+    833617467,
+    3663664814,
+    3666167638,
+    3666167637,
+    3663664815,
+    833617468,
+    3668037244,
+    3668037243,
+    3668037240,
+    3668037248,
+    3668037242,
+    3668037247,
+    3668037241,
+    3668037246,
+    3663683626,
+    3668037245,
+    3663664781,
+    833617469,
+    1497978859,
+    7009210274,
+    1497978858,
+    3834539562,
+    3834539563,
+    833617458
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "750",
+    "addr:street": "Hornby Street",
+    "building": "civic",
+    "name": "Vancouver Art Gallery",
+    "name:ko": "밴쿠버 아트 갤러리",
+    "opening_hours": "Mo, We-Su 10:00-17:00; Tu 10:00-21:00; Dec 24, Dec 31 10:00-16:00; Jan 1, Dec 25 off",
+    "phone": "+1-604-662-4719",
+    "tourism": "museum",
+    "website": "http://www.vanartgallery.bc.ca/",
+    "wheelchair": "yes",
+    "wikidata": "Q371960",
+    "wikipedia": "en:Vancouver Art Gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 75035724,
+  "center": {
+    "lat": 49.2829328,
+    "lon": -122.9339863
+  },
+  "nodes": [
+    885766290,
+    885766292,
+    885766294,
+    885766298,
+    885766301,
+    885766283,
+    885766305,
+    885766308,
+    885766311,
+    885766315,
+    885766319,
+    885766339,
+    885766343,
+    885766345,
+    885766348,
+    885766351,
+    885766353,
+    885766356,
+    885766361,
+    885766364,
+    885766366,
+    885766368,
+    885766370,
+    885766373,
+    885766377,
+    885766381,
+    885766384,
+    885766290
+  ],
+  "tags": {
+    "name": "Rose Garden",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 75612127,
+  "center": {
+    "lat": 49.2506042,
+    "lon": -122.7083977
+  },
+  "nodes": [
+    892701588,
+    892701589,
+    892701590,
+    892701591,
+    892701588
+  ],
+  "tags": {
+    "name": "Corn Maze",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 75719641,
+  "center": {
+    "lat": 49.2754654,
+    "lon": -123.1435513
+  },
+  "nodes": [
+    893955247,
+    893955249,
+    6484849450,
+    893955252,
+    893955256,
+    893955260,
+    969694001,
+    8155087361,
+    893955227,
+    8155087360,
+    893955229,
+    8155087359,
+    6484849451,
+    8155087358,
+    893955231,
+    8155087357,
+    893955232,
+    8155087356,
+    893955234,
+    8155087355,
+    893955236,
+    8155087354,
+    893955238,
+    8155087367,
+    893955240,
+    8155087366,
+    893955223,
+    6484849452,
+    893955264,
+    893955266,
+    893955267,
+    893955247
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Gordon MacMillan Southam Observatory",
+    "note": "Optical Telescope",
+    "operator": "H.R. MacMillan Space Centre",
+    "source": "DataBC bc_gvrd_west_2009",
+    "tourism": "attraction",
+    "website": "https://www.spacecentre.ca/gordon-southam-observatory"
+  }
+},
+{
+  "type": "way",
+  "id": 77260696,
+  "center": {
+    "lat": 49.2286902,
+    "lon": -122.3560649
+  },
+  "nodes": [
+    909493671,
+    4293724310,
+    4293726503,
+    4293772891,
+    4293784996,
+    909493705,
+    4293791489,
+    4293791589,
+    909493752,
+    4293790992,
+    4293724309,
+    4293784993,
+    4293707295,
+    4293791789,
+    909493707,
+    4293791889,
+    4293791989,
+    4293705310,
+    4293784994,
+    4293791190,
+    4293791191,
+    4293728901,
+    4293784995,
+    4293794090,
+    909493697,
+    4293772895,
+    909493671
+  ],
+  "tags": {
+    "addr:city": "Mission",
+    "addr:housenumber": "31338",
+    "addr:postcode": "V4S 1C4",
+    "addr:street": "Dewdney Trunk Road",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Powerhouse at Stave Falls Visitor centre",
+    "opening_hours": "Th-Mo 10:00-16:00; Tu-We off; Sep 13-Oct 10: 10:00-16:00",
+    "operator": "BC hydro",
+    "phone": "+1-604-462-1222",
+    "tourism": "museum",
+    "url": "http://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19425",
+    "website": "https://www.bchydro.com/community/recreation_areas/visitor-centres/stave-falls-visitor-centre.html",
+    "wikidata": "Q7604795",
+    "wikipedia": "en:Stave Falls Dam and Powerhouse"
+  }
+},
+{
+  "type": "way",
+  "id": 82137301,
+  "center": {
+    "lat": 49.2151654,
+    "lon": -122.9269664
+  },
+  "nodes": [
+    956429530,
+    1514605195,
+    1514605179,
+    1514605196,
+    1514605199,
+    1514605177,
+    1514605205,
+    1514605209,
+    1514605211,
+    956429602,
+    1514605228,
+    1514605232,
+    1514605236,
+    1514605243,
+    1514605241,
+    956429516,
+    956429761,
+    1514605282,
+    1514605277,
+    1514605279,
+    1019504218,
+    956429554,
+    966531130,
+    1514605216,
+    1514605214,
+    1514605207,
+    1514605203,
+    956429530
+  ],
+  "tags": {
+    "addr:housenumber": "735",
+    "addr:street": "Eighth Avenue",
+    "amenity": "theatre",
+    "building": "yes",
+    "name": "Massey Theatre",
+    "phone": "+1-604-521-5050",
+    "tourism": "attraction",
+    "website": "https://www.masseytheatre.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 83591558,
+  "center": {
+    "lat": 49.2216817,
+    "lon": -122.9077392
+  },
+  "nodes": [
+    973506270,
+    973506278,
+    973506241,
+    1003448334,
+    1003448318,
+    1003448331,
+    1003448324,
+    973506259,
+    1003448323,
+    1003448336,
+    1003448335,
+    1003495382,
+    1003448314,
+    1003448317,
+    1003448310,
+    1003448312,
+    1003448322,
+    1003448308,
+    1003448316,
+    1003448326,
+    1003448321,
+    1003448320,
+    1003448333,
+    1003448313,
+    1003448315,
+    1003448327,
+    973506270
+  ],
+  "tags": {
+    "addr:housenumber": "65",
+    "addr:street": "East Sixth Avenue",
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "Canada Games Pool",
+    "sport": "swimming",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 83665433,
+  "center": {
+    "lat": 49.2017750,
+    "lon": -122.9112304
+  },
+  "nodes": [
+    974231240,
+    3151699738,
+    974231235,
+    974231248,
+    974231228,
+    974231240
+  ],
+  "tags": {
+    "addr:housenumber": "777",
+    "addr:street": "Columbia Street",
+    "amenity": "arts_centre",
+    "building": "public",
+    "building:levels": "4",
+    "name": "Anvil Centre",
+    "tourism": "museum",
+    "website": "https://anvilcentre.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 87262500,
+  "center": {
+    "lat": 49.0650855,
+    "lon": -122.8420090
+  },
+  "nodes": [
+    6306458501,
+    6306458500,
+    1014671159,
+    6306458499,
+    6306458498,
+    1014671242,
+    1014671236,
+    1014671324,
+    1014671326,
+    1014671525,
+    6306458497,
+    6306458496,
+    6306458501
+  ],
+  "tags": {
+    "addr:city": "Surrey",
+    "addr:housenumber": "13723",
+    "addr:street": "Crescent Road",
+    "building": "detached",
+    "name": "Stewart Farmhouse",
+    "operator": "City of Surrey",
+    "tourism": "museum",
+    "website": "https://www.surrey.ca/culture-recreation/3287.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 87338820,
+  "center": {
+    "lat": 49.2160775,
+    "lon": -122.9074174
+  },
+  "nodes": [
+    1015607828,
+    253654262,
+    1015607830,
+    1015607835,
+    1015607828
+  ],
+  "tags": {
+    "tourism": "zoo",
+    "zoo": "petting_zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 89367580,
+  "center": {
+    "lat": 49.2837556,
+    "lon": -123.0352780
+  },
+  "nodes": [
+    1036571280,
+    6955919109,
+    1036571305,
+    1036571516,
+    6955919110,
+    1036571349,
+    6482027630,
+    6955919108,
+    6482027629,
+    1036571280
+  ],
+  "tags": {
+    "building": "roof",
+    "disused:amenity": "corkscrew",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 107134311,
+  "center": {
+    "lat": 49.1247448,
+    "lon": -123.1868301
+  },
+  "nodes": [
+    1231711576,
+    1231711571,
+    1231711559,
+    1231711564,
+    1231711562,
+    1231711572,
+    1231711574,
+    1231711570,
+    1231711561,
+    1231711573,
+    1884438100,
+    1884438120,
+    1231711566,
+    1884438080,
+    1231711576
+  ],
+  "tags": {
+    "addr:city": "Richmond",
+    "addr:housenumber": "12138",
+    "addr:postcode": "V7E 3J1",
+    "addr:street": "4th Avenue",
+    "building": "yes",
+    "historic": "building",
+    "name": "Gulf of Georgia Cannery National Historic Site",
+    "opening_hours": "Su-Sa 10:00-17:00; Nov 11,Dec 25,Dec 26,Jan 01 off; Oct Mo[2] off",
+    "phone": "+1-604-664-9009",
+    "rfr": "yes",
+    "tourism": "museum",
+    "url": "http://www.gulfofgeorgiacannery.com/",
+    "website": "http://gulfofgeorgiacannery.com/",
+    "wheelchair": "yes",
+    "wheelchair:description": "http://www.pc.gc.ca/eng/lhn-nhs/bc/georgia/visit/visit6.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 117445976,
+  "center": {
+    "lat": 49.2865320,
+    "lon": -123.0017604
+  },
+  "nodes": [
+    1323150038,
+    1453013672,
+    1453013678,
+    1453013671,
+    1453013679,
+    1453013680,
+    1453013670,
+    1453013666,
+    1453013667,
+    1453013674,
+    1453013669,
+    1453013675,
+    1453013681,
+    1323150020,
+    1323150018,
+    1323150007,
+    1323149996,
+    1323150037,
+    1323150028,
+    1323150019,
+    1323150009,
+    1323149997,
+    1323150038
+  ],
+  "tags": {
+    "barrier": "fence",
+    "name": "Burnaby Central Railway",
+    "operator": "British Columbia Society of Model Engineers",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 123358322,
+  "center": {
+    "lat": 49.0984636,
+    "lon": -123.1784484
+  },
+  "nodes": [
+    1375968405,
+    1375968434,
+    1375968440,
+    2159512315,
+    2159512312,
+    1375968430,
+    2159512322,
+    2159512325,
+    1375968406,
+    2159512320,
+    2159512317,
+    1375968419,
+    1375968432,
+    2159512308,
+    2159512305,
+    2159512302,
+    2159512311,
+    1375968424,
+    1375968405
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Bird Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 124311312,
+  "center": {
+    "lat": 49.2384347,
+    "lon": -122.8616270
+  },
+  "nodes": [
+    1383973444,
+    1383973443,
+    1383973439,
+    1383973440,
+    1383973444
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Caboose",
+    "operator": "Canadian Historical Railroad Association",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 124311313,
+  "center": {
+    "lat": 49.2385036,
+    "lon": -122.8613706
+  },
+  "nodes": [
+    1383973451,
+    1383973450,
+    1383973441,
+    1383973442,
+    1383973451
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Canadian Historical Railroad Association",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 150172388,
+  "center": {
+    "lat": 49.1623152,
+    "lon": -122.8420399
+  },
+  "nodes": [
+    1631041762,
+    1631041741,
+    1631041775,
+    1631041777,
+    1631041766,
+    1631041742,
+    1631041770,
+    1631041760,
+    1631041785,
+    1631041733,
+    1631041725,
+    1631041723,
+    1631041714,
+    1631041764,
+    1631041791,
+    1631041716,
+    1631041758,
+    1631041740,
+    1631041736,
+    1631041717,
+    1631041768,
+    1631041745,
+    1631041759,
+    1631041793,
+    1631041727,
+    1631041704,
+    1631041710,
+    1631041739,
+    1631041730,
+    1631041786,
+    1631041789,
+    1631041795,
+    1631041774,
+    1631041735,
+    1631041772,
+    1631041738,
+    1631041762
+  ],
+  "tags": {
+    "addr:city": "Surrey",
+    "addr:housenumber": "13750",
+    "addr:street": "88 Avenue",
+    "building": "yes",
+    "name": "Surrey Arts Centre",
+    "phone": "+1-604-501-5566",
+    "tourism": "gallery",
+    "website": "https://www.surrey.ca/culture-recreation/1619.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 165231228,
+  "center": {
+    "lat": 49.2728094,
+    "lon": -123.1859330
+  },
+  "nodes": [
+    1767924235,
+    1767924239,
+    1767924230,
+    1767924229,
+    1767924235
+  ],
+  "tags": {
+    "addr:housenumber": "1575",
+    "addr:street": "Alma Street",
+    "building": "yes",
+    "name": "Hastings Mill Park Museum",
+    "tourism": "museum",
+    "website": "http://www.hastings-mill-museum.ca/"
+  }
+},
+{
+  "type": "way",
+  "id": 168949344,
+  "center": {
+    "lat": 49.3429038,
+    "lon": -123.1150699
+  },
+  "nodes": [
+    1801294309,
+    1801294299
+  ],
+  "tags": {
+    "access": "private",
+    "addr:housenumber": "3735",
+    "addr:street": "Capilano Road",
+    "bicycle": "no",
+    "bridge": "yes",
+    "bridge:structure": "suspension",
+    "foot": "private",
+    "highway": "footway",
+    "horse": "no",
+    "layer": "2",
+    "motor_vehicle": "no",
+    "name": "Capilano Suspension Bridge",
+    "surface": "wood",
+    "tourism": "attraction",
+    "wheelchair": "no",
+    "wikidata": "Q862283",
+    "wikipedia": "en:Capilano Suspension Bridge"
+  }
+},
+{
+  "type": "way",
+  "id": 170612575,
+  "center": {
+    "lat": 49.2777422,
+    "lon": -123.1477294
+  },
+  "nodes": [
+    1817805553,
+    1817805545,
+    1817805540,
+    1817805565,
+    1817805549,
+    1817805551,
+    1817805566,
+    1817805564,
+    1817805547,
+    1817805559,
+    1817805543,
+    1817805557,
+    1817805555,
+    1817805553
+  ],
+  "tags": {
+    "historic": "ship",
+    "name": "Ben Franklin",
+    "ref": "PX-15",
+    "ship:type": "submarine",
+    "start_date": "1968",
+    "tourism": "attraction",
+    "wikidata": "Q663994",
+    "wikipedia": "en:Ben Franklin (PX-15)"
+  }
+},
+{
+  "type": "way",
+  "id": 170686128,
+  "center": {
+    "lat": 49.1982351,
+    "lon": -122.9222347
+  },
+  "nodes": [
+    1818449464,
+    1818449459,
+    1818449425,
+    1818449463,
+    1818449444,
+    1818449442,
+    1818449464
+  ],
+  "tags": {
+    "name": "Submarine",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 171690444,
+  "center": {
+    "lat": 49.1130893,
+    "lon": -122.5403012
+  },
+  "nodes": [
+    1826825612,
+    1826825611,
+    1826825610,
+    1826825613,
+    1826825612
+  ],
+  "tags": {
+    "addr:housenumber": "6179",
+    "addr:street": "248",
+    "name": "Krause Berry Farms",
+    "opening_hours": "Su 09:30-17:00",
+    "phone": "+1-604-856-5757",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 174530913,
+  "center": {
+    "lat": 49.2774924,
+    "lon": -123.1475655
+  },
+  "nodes": [
+    1852003698,
+    1852003703,
+    1852003702,
+    1852003691,
+    1852003692,
+    1852003696,
+    1852003697,
+    1852003694,
+    1852003695,
+    1852003701,
+    1852003700,
+    1852003699,
+    1852003698
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1905",
+    "addr:postcode": "V6J 1A3",
+    "addr:street": "Ogden Avenue",
+    "building": "yes",
+    "museum": "maritime",
+    "name": "Vancouver Maritime Museum",
+    "name:ru": "Ванкуверский морской музей",
+    "opening_hours": "Su-Sa 10:00-17:00; Sep-May: Mo off; Sep-May: Su 12:00-17:00",
+    "phone": "+1-604-257-8300",
+    "start_date": "1959",
+    "tourism": "museum",
+    "website": "https://www.vancouvermaritimemuseum.com/",
+    "wheelchair": "yes",
+    "wikidata": "Q1139295",
+    "wikipedia": "en:Vancouver Maritime Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 178068183,
+  "center": {
+    "lat": 49.1143734,
+    "lon": -123.1511421
+  },
+  "nodes": [
+    1884478285,
+    1884478270,
+    1884478265,
+    1884478276,
+    1884478226,
+    1884478224,
+    1884478253,
+    1884478284,
+    1884478285
+  ],
+  "tags": {
+    "addr:city": "Richmond",
+    "addr:housenumber": "6511",
+    "addr:postcode": "V7E 3R3",
+    "addr:street": "Dyke Road",
+    "museum": "history",
+    "name": "London Heritage Farm",
+    "opening_hours:covid19": "off",
+    "phone": "+1-604-271-5220",
+    "tourism": "museum",
+    "website": "https://londonfarm.ca/"
+  }
+},
+{
+  "type": "way",
+  "id": 179219506,
+  "center": {
+    "lat": 49.1253084,
+    "lon": -123.1828674
+  },
+  "nodes": [
+    1895680014,
+    1895680006,
+    1895680023,
+    1895680012,
+    1895680014
+  ],
+  "tags": {
+    "addr:housenumber": "3811",
+    "addr:street": "Moncton Street",
+    "building": "yes",
+    "name": "Steveston Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 221238777,
+  "center": {
+    "lat": 49.1681152,
+    "lon": -122.5730317
+  },
+  "nodes": [
+    2302861578,
+    2302861580,
+    2302861581,
+    2302861579,
+    3329593417,
+    3329593415,
+    2302861575,
+    2302861574,
+    2302861572,
+    2302861573,
+    2302861576,
+    2302861577,
+    2302861578
+  ],
+  "tags": {
+    "boundary": "national_park",
+    "leisure": "nature_reserve",
+    "name": "Fort Langley National Historic Site",
+    "opening_hours:covid19": "off",
+    "tourism": "attraction",
+    "website": "https://www.pc.gc.ca/eng/lhn-nhs/bc/langley/index.aspx",
+    "wheelchair": "yes",
+    "wheelchair:description": "http://www.pc.gc.ca/eng/lhn-nhs/bc/langley/visit/visit3.aspx",
+    "wikidata": "Q1282806",
+    "wikipedia": "en:Fort Langley National Historic Site"
+  }
+},
+{
+  "type": "way",
+  "id": 223635729,
+  "center": {
+    "lat": 49.2884040,
+    "lon": -123.1119480
+  },
+  "nodes": [
+    1572442770,
+    1572442774,
+    1572442776,
+    1572442787,
+    1572442788,
+    1572442789,
+    1572442786,
+    1572442834,
+    1572442829,
+    1572442830,
+    1572442817,
+    1572442823,
+    1572442824,
+    1572442822,
+    1572442816,
+    1572442811,
+    1572442809,
+    1572442805,
+    1572442802,
+    1572442775,
+    1572442764,
+    1572442745,
+    6678086611,
+    1572442750,
+    6678086605,
+    6678086606,
+    6678086609,
+    6678086608,
+    6678086607,
+    1572442751,
+    1572442754,
+    1572442756,
+    5463966783,
+    1572442770
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "999",
+    "addr:postcode": "V6C 3C1",
+    "addr:street": "Canada Place",
+    "alt_name": "Vancouver Convention Centre East",
+    "building": "yes",
+    "name": "Canada Place",
+    "name:ko": "캐나다 플레이스",
+    "old_name": "Canadian Pavilion for Expo 86",
+    "tourism": "attraction",
+    "website": "https://www.canadaplace.ca/",
+    "wheelchair": "yes",
+    "wikidata": "Q1032014",
+    "wikipedia": "en:Canada Place"
+  }
+},
+{
+  "type": "way",
+  "id": 241562506,
+  "center": {
+    "lat": 49.3827789,
+    "lon": -123.0788374
+  },
+  "nodes": [
+    2491745306,
+    2491745307,
+    2491745308,
+    2491745309,
+    2491745311,
+    2491745312,
+    2491745310,
+    2491745305,
+    2491745303,
+    2491745301,
+    2491745299,
+    2491745298,
+    2491745297,
+    2491745300,
+    2491745302,
+    2491745304,
+    2491745306
+  ],
+  "tags": {
+    "name": "Grizzly Bear Habitat",
+    "tourism": "zoo",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 242303393,
+  "center": {
+    "lat": 49.1266979,
+    "lon": -123.0567618
+  },
+  "nodes": [
+    2498040462,
+    2498040463,
+    2498040461,
+    2498040460,
+    2498040462
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Inverholme Schoolhouse",
+    "note": "Building moved here from East Ladner in 1981",
+    "phone": "+1-604-432-6352",
+    "start_date": "1909",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 255156553,
+  "center": {
+    "lat": 49.1385432,
+    "lon": -122.7339186
+  },
+  "nodes": [
+    6324147860,
+    2608853834,
+    6324147859,
+    6324147858,
+    6324147857,
+    6324147856,
+    6324147855,
+    6324147854,
+    6421905995,
+    2608853829,
+    6324147853,
+    6324147852,
+    2608853830,
+    2608853832,
+    2608853831,
+    6324147865,
+    6324147864,
+    6324147863,
+    6421905996,
+    6421906001,
+    6421905997,
+    6421905993,
+    6421905999,
+    6421905998,
+    6421906000,
+    6324147860
+  ],
+  "tags": {
+    "addr:city": "Surrey",
+    "addr:housenumber": "7480",
+    "addr:postcode": "V3S 7B1",
+    "addr:street": "176 Street",
+    "amenity": "cafe",
+    "building": "yes",
+    "name": "Honeybee Centre",
+    "opening_hours": "09:00-19:00; Dec 25 off",
+    "tourism": "attraction",
+    "website": "http://www.honeybeecentre.com"
+  }
+},
+{
+  "type": "way",
+  "id": 274473291,
+  "center": {
+    "lat": 49.0437570,
+    "lon": -122.3050329
+  },
+  "nodes": [
+    2791879116,
+    2791879117,
+    2791879118,
+    2791879119,
+    2795544995,
+    2791879116
+  ],
+  "tags": {
+    "building": "detached",
+    "name": "Trethewey House",
+    "operator": "MSA museum society",
+    "tourism": "museum",
+    "website": "http://www.msamuseum.ca"
+  }
+},
+{
+  "type": "way",
+  "id": 274721256,
+  "center": {
+    "lat": 49.0452528,
+    "lon": -122.3057771
+  },
+  "nodes": [
+    2794039893,
+    2990196213,
+    2990196214,
+    2990196217,
+    2990196218,
+    2990196215,
+    4363826389,
+    2990196216,
+    2794039895,
+    2794039896,
+    2794039893
+  ],
+  "tags": {
+    "addr:housenumber": "2387",
+    "addr:postcode": "V2S 4N9",
+    "addr:street": "Ware Street",
+    "alt_name": "Kariton House",
+    "building": "detached",
+    "name": "Kariton Art Gallery + Boutique",
+    "opening_hours": "Tu-Fr 09:00-16:00; Sa 12:00-16:00",
+    "operator": "Abbotsford Arts Council",
+    "shop": "art",
+    "tourism": "gallery",
+    "website": "https://www.abbotsfordartscouncil.com/index.php/kariton-art-gallery/gallery-exhibits",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 274888709,
+  "center": {
+    "lat": 49.0435474,
+    "lon": -122.3051513
+  },
+  "nodes": [
+    2795545000,
+    2795545001,
+    2795545002,
+    2991741614,
+    2795545000
+  ],
+  "tags": {
+    "alt_name": "Carriage House",
+    "building": "garage",
+    "internet_access": "wlan",
+    "internet_access:fee": "yes",
+    "name": "Heritage Gallery",
+    "operator": "MSA museum society",
+    "tourism": "museum",
+    "website": "http://www.msamuseum.ca"
+  }
+},
+{
+  "type": "way",
+  "id": 274888717,
+  "center": {
+    "lat": 49.0510444,
+    "lon": -122.3072183
+  },
+  "nodes": [
+    2795545019,
+    2795545020,
+    3962495757,
+    3962439561,
+    2795545021,
+    3962439562,
+    2795545022,
+    3962495661,
+    3962439067,
+    3962439066,
+    3962439563,
+    2795545019
+  ],
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "historic": "yes",
+    "name": "Gur Sikh Temple",
+    "opening_hours": "09:00-17:00",
+    "operator": "Khalsa Diwan Society",
+    "phone": "+1-604-851-6325",
+    "religion": "sikh",
+    "start_date": "1911",
+    "tourism": "museum",
+    "url": "http://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=9358",
+    "website": "http://canadiansikhheritage.ca",
+    "wikidata": "Q1555140",
+    "wikipedia": "en:Gur Sikh Temple"
+  }
+},
+{
+  "type": "way",
+  "id": 284749724,
+  "center": {
+    "lat": 49.2792847,
+    "lon": -122.8507662
+  },
+  "nodes": [
+    2884567632,
+    2884567633,
+    2884567631,
+    2884567630,
+    2884567632
+  ],
+  "tags": {
+    "addr:city": "Port Moody",
+    "addr:housenumber": "2734",
+    "addr:street": "Murray Street",
+    "building": "yes",
+    "name": "Port Moody Station Museum",
+    "tourism": "museum",
+    "website": "http://portmoodymuseum.org/",
+    "wheelchair": "yes",
+    "wikipedia": "en:Port Moody Station Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 300889345,
+  "center": {
+    "lat": 49.0527235,
+    "lon": -122.3272491
+  },
+  "nodes": [
+    2793890376,
+    2793890374,
+    3049892328,
+    3049892329,
+    3853401358,
+    2793890369,
+    2793890368,
+    2793890363,
+    2793890361,
+    2793890357,
+    4079466371,
+    2793890352,
+    2793890350,
+    2793890349,
+    3359534097,
+    2793890347,
+    2793890346,
+    2793890344,
+    2793890381,
+    3200441044,
+    2793890379,
+    3969381078,
+    2793890376
+  ],
+  "tags": {
+    "addr:housenumber": "32388",
+    "addr:postcode": "V2T 0B3",
+    "addr:street": "Veterans Way",
+    "building": "civic",
+    "name": "The Reach",
+    "phone": "+1-604-864-8087",
+    "tourism": "gallery",
+    "tourism:museum": "yes",
+    "website": "https://www.thereach.ca/",
+    "wikidata": "Q7759539",
+    "wikipedia": "en:The Reach Gallery Museum"
+  }
+},
+{
+  "type": "way",
+  "id": 302335249,
+  "center": {
+    "lat": 49.2764660,
+    "lon": -123.0724528
+  },
+  "nodes": [
+    3065945125,
+    3065945128,
+    3065946933,
+    3065945130,
+    3065945126,
+    3065945125
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1536",
+    "addr:postcode": "V5L 2G9",
+    "addr:street": "Venables Street",
+    "building": "yes",
+    "email": "info@artworksbc.com",
+    "name": "Art Works",
+    "phone": "+1-604-688-3301",
+    "tourism": "gallery",
+    "website": "http://artworksbc.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 307662984,
+  "center": {
+    "lat": 49.0434203,
+    "lon": -122.3048917
+  },
+  "nodes": [
+    3128663052,
+    3128663053,
+    3128663054,
+    3128663055,
+    3128663052
+  ],
+  "tags": {
+    "building": "garage",
+    "name": "Joey's Playhouse",
+    "operator": "MSA museum society",
+    "tourism": "museum",
+    "website": "http://www.msamuseum.ca"
+  }
+},
+{
+  "type": "way",
+  "id": 310612768,
+  "center": {
+    "lat": 49.2869118,
+    "lon": -123.1321264
+  },
+  "nodes": [
+    3160523110,
+    3160523111,
+    3160523112,
+    3160523113,
+    3160523114,
+    3160523115,
+    3160523110
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1415",
+    "addr:street": "Barclay Street",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Roedde House Museum",
+    "opening_hours": "Tu-Fr,Su 13:00-16:00; Mo,Sa off",
+    "tourism": "museum",
+    "website": "https://www.roeddehouse.org/",
+    "wikidata": "Q18167820"
+  }
+},
+{
+  "type": "way",
+  "id": 327262703,
+  "center": {
+    "lat": 49.0544767,
+    "lon": -122.3290310
+  },
+  "nodes": [
+    3781061137,
+    3339875493,
+    3853427858,
+    3339875793,
+    3781061132,
+    3781060704,
+    3781061131,
+    3781060703,
+    3781061130,
+    3781041994,
+    3781061129,
+    3781041923,
+    3853427557,
+    3781060710,
+    3781041997,
+    3781056934,
+    3781041922,
+    3781041921,
+    3781056919,
+    3781041996,
+    3781061137
+  ],
+  "tags": {
+    "addr:city": "Abbotsford",
+    "addr:housenumber": "32320",
+    "addr:postcode": "V2T 6N4",
+    "addr:street": "George Ferguson Way",
+    "barrier": "fence",
+    "leisure": "garden",
+    "name": "International Friendship Garden & Cultural Gateway",
+    "operator": "City of Abbotsford Parks, Recreation & Culture",
+    "tourism": "attraction",
+    "website": "http://www.abbotsford.ca/leisure/parks/abbotsford_parks.htm#FriendshipGarden"
+  }
+},
+{
+  "type": "way",
+  "id": 332994042,
+  "center": {
+    "lat": 49.3566475,
+    "lon": -123.1101404
+  },
+  "nodes": [
+    3401123162,
+    3401123165,
+    3401123164,
+    3401123163,
+    3401123161,
+    3401123159,
+    3401123158,
+    3401123152,
+    3401123153,
+    3401123147,
+    3401123146,
+    3401123145,
+    3401123142,
+    3401123141,
+    3401123144,
+    3401123143,
+    3401123149,
+    3401123148,
+    3401123150,
+    3401123151,
+    3401123155,
+    3401123154,
+    3401123156,
+    3401123157,
+    3401123160,
+    3401123162
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Capilano Salmon Hatchery",
+    "tourism": "attraction",
+    "url": "http://www.pac.dfo-mpo.gc.ca/sep-pmvs/projects-projets/capilano/capilano-eng.htm"
+  }
+},
+{
+  "type": "way",
+  "id": 332994057,
+  "center": {
+    "lat": 49.3429119,
+    "lon": -123.0203278
+  },
+  "nodes": [
+    3401123105,
+    3401123113,
+    3401123110,
+    3401123107,
+    3401123106,
+    3401123109,
+    3401123112,
+    3401123103,
+    3401123104,
+    3401123099,
+    3401123098,
+    3401123090,
+    3401123089,
+    3401123094,
+    3401123091,
+    3401123087,
+    3401123086,
+    3401123088,
+    3401123093,
+    3401123095,
+    3401123092,
+    3401123096,
+    3401123101,
+    3401123102,
+    3401123108,
+    3401123097,
+    3401123100,
+    3401123115,
+    3401123114,
+    3401123111,
+    3401123105
+  ],
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Lynn Canyon Ecology Centre",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 339382574,
+  "center": {
+    "lat": 49.3277693,
+    "lon": -122.4462257
+  },
+  "nodes": [
+    3465693176,
+    6341896569,
+    3465693187,
+    6341896568,
+    1005844059,
+    3465693177,
+    1005844064,
+    3465693192,
+    1005844065,
+    1005844067,
+    1005844068,
+    1005844019,
+    1005844020,
+    1005844022,
+    1005844025,
+    3465694093,
+    1005843580,
+    3465694094,
+    1005844028,
+    283778771,
+    1005844034,
+    1005844038,
+    1005844040,
+    1005844044,
+    1005844049,
+    801020710,
+    801020721,
+    1005844054,
+    3465693191,
+    3465693190,
+    3465693188,
+    3465693189,
+    3465693176
+  ],
+  "tags": {
+    "name": "North Beach",
+    "natural": "beach",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 354703161,
+  "center": {
+    "lat": 49.0217058,
+    "lon": -122.8074335
+  },
+  "nodes": [
+    3603917796,
+    3603917795,
+    3603917793,
+    3603917794,
+    3603917796
+  ],
+  "tags": {
+    "building": "museum",
+    "building:levels": "1",
+    "name": "White Rock Museum & Archives",
+    "opening_hours": "Tu-Fr 10:30-16:30; Sa,Su 11:00-16:30; PH 12:00-16:30; Mo off",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 359421576,
+  "center": {
+    "lat": 49.2865024,
+    "lon": -123.1441033
+  },
+  "nodes": [
+    3641453881,
+    3641453880,
+    3641453878,
+    3641453879,
+    3641453881
+  ],
+  "tags": {
+    "attraction": "water_slide",
+    "capacity": "1",
+    "floating": "yes",
+    "name": "Waterslide",
+    "note": "only usable during high tide",
+    "seasonal": "summer",
+    "tourism": "attraction",
+    "water_slide": "body"
+  }
+},
+{
+  "type": "way",
+  "id": 366688587,
+  "center": {
+    "lat": 49.1046376,
+    "lon": -122.7322315
+  },
+  "nodes": [
+    3706764664,
+    3706764665,
+    3706764666,
+    3706764667,
+    3706764668,
+    3706764669,
+    5939860995,
+    3706764670,
+    5939861002,
+    5939860997,
+    3706764671,
+    5939860998,
+    5939861001,
+    5939860999,
+    3706764653,
+    5939861000,
+    5939861003,
+    3706764654,
+    3706764657,
+    3706764660,
+    3706764661,
+    3706764662,
+    3706764663,
+    3706764655,
+    3706764656,
+    3706764664
+  ],
+  "tags": {
+    "addr:city": "Surrey",
+    "addr:housenumber": "17710",
+    "addr:postcode": "V3S 5H8",
+    "addr:street": "56A Avenue",
+    "building": "yes",
+    "name": "Museum of Surrey",
+    "opening_hours": "Tu-Sa 09:30-17:30; Su 12:00-17:00; Mo,PH off",
+    "operator": "City of Surrey",
+    "phone": "+1-604-592-6956",
+    "tourism": "museum",
+    "website": "https://www.surrey.ca/culture-recreation/2372.aspx",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 366692390,
+  "center": {
+    "lat": 49.1044974,
+    "lon": -122.7331444
+  },
+  "nodes": [
+    3706793263,
+    3706793264,
+    3706793265,
+    6070107641,
+    3706793266,
+    3706793263
+  ],
+  "tags": {
+    "addr:city": "Surrey",
+    "addr:housenumber": "17671",
+    "addr:postcode": "V3S 1C9",
+    "addr:street": "56 Avenue",
+    "building": "yes",
+    "museum": "archives",
+    "name": "Surrey Archives",
+    "opening_hours": "Tu-Fr 09:30-17:30; Sa 10:00-17:00; Su-Mo off",
+    "operator": "City of Surrey",
+    "tourism": "museum",
+    "website": "https://www.surrey.ca/culture-recreation/2394.aspx"
+  }
+},
+{
+  "type": "way",
+  "id": 384364819,
+  "center": {
+    "lat": 49.0390979,
+    "lon": -122.2234061
+  },
+  "nodes": [
+    3876652058,
+    3991403496,
+    3876652065,
+    3876652066,
+    3876652067,
+    3876652068,
+    3876652069,
+    3876650671,
+    3876650829,
+    3396701493,
+    3396698895,
+    3396701696,
+    3396701894,
+    3396701695,
+    3396702093,
+    3396701993,
+    3396701893,
+    3396701694,
+    3396701793,
+    3876652070,
+    3876652071,
+    3876650830,
+    3876650494,
+    3876650831,
+    3876650832,
+    3876652072,
+    3876652073,
+    3876652074,
+    3876652063,
+    3876652062,
+    3876652061,
+    3876652060,
+    3876652059,
+    3876652058
+  ],
+  "tags": {
+    "addr:city": "Abbotsford",
+    "addr:housenumber": "36165",
+    "addr:postcode": "V3G 2K8",
+    "addr:street": "North Parallel Road",
+    "landuse": "recreation_ground",
+    "name": "Castle Fun Park",
+    "opening_hours": "10:00-00:00",
+    "phone": "+1-604-850-0411",
+    "tourism": "theme_park",
+    "website": "https://www.castlefunpark.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 384364830,
+  "center": {
+    "lat": 49.0384766,
+    "lon": -122.2232390
+  },
+  "nodes": [
+    3876650833,
+    3876650495,
+    3876650834,
+    3876650835,
+    3876650672,
+    3876651158,
+    3876652082,
+    3876650836,
+    3876650837,
+    3876650496,
+    3876650497,
+    3876651260,
+    3876650673,
+    3876651261,
+    3876651262,
+    3876652076,
+    3876650838,
+    3876651263,
+    3876650498,
+    3876652077,
+    3876650839,
+    3876650499,
+    3876652078,
+    3876652079,
+    3876651264,
+    3876652080,
+    3876650500,
+    3876650501,
+    3876650674,
+    3876650833
+  ],
+  "tags": {
+    "fee": "yes",
+    "leisure": "golf_course",
+    "name": "Mini Golf",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 388516021,
+  "center": {
+    "lat": 49.0603274,
+    "lon": -122.4719291
+  },
+  "nodes": [
+    3917084265,
+    3917084266,
+    3917084267,
+    3917084268,
+    3917084265
+  ],
+  "tags": {
+    "addr:city": "Aldergrove",
+    "addr:housenumber": "3190",
+    "addr:postcode": "V4W 3H7",
+    "addr:street": "271 Street",
+    "building": "yes",
+    "name": "Alder Grove Telephone Museum",
+    "operator": "Alder Grove Heritage Society",
+    "phone": "+1-604-857-0555",
+    "tourism": "museum",
+    "website": "http://www.telephonemuseum.ca/"
+  }
+},
+{
+  "type": "way",
+  "id": 392018279,
+  "center": {
+    "lat": 49.1036516,
+    "lon": -122.7337988
+  },
+  "nodes": [
+    3953032589,
+    3953032587,
+    3953032576,
+    3953032588,
+    3953032589
+  ],
+  "tags": {
+    "building": "train_station",
+    "historic": "building",
+    "name": "Cloverdale",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 398633799,
+  "center": {
+    "lat": 49.3383245,
+    "lon": -123.0374788
+  },
+  "nodes": [
+    4013818399,
+    4013818398,
+    4013812149,
+    4013812150,
+    4013812151,
+    4013812166,
+    4013812165,
+    4013812164,
+    4013812162,
+    4013812184,
+    4013812182,
+    4013818400,
+    4013818399
+  ],
+  "tags": {
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 398633812,
+  "center": {
+    "lat": 49.3383465,
+    "lon": -123.0372476
+  },
+  "nodes": [
+    4013812159,
+    4013812172,
+    4013812171,
+    4013812178,
+    4013812180,
+    4013812185,
+    4013812187,
+    4013818391,
+    4013818394,
+    4013818396,
+    4013818397,
+    4013818395,
+    4013818393,
+    4013818389,
+    4013812188,
+    4013812186,
+    4013812181,
+    4013812179,
+    4013812176,
+    4013812175,
+    4013812170,
+    4013812169,
+    4013812156,
+    4013812157,
+    4013812154,
+    4013812155,
+    4013812158,
+    4013812159
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Museum & Archives Community History Centre",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 406020994,
+  "center": {
+    "lat": 49.3303925,
+    "lon": -123.2645860
+  },
+  "nodes": [
+    4081468844,
+    4081468845,
+    4081468846,
+    4081468847,
+    4081468848,
+    4081468849,
+    4081468831,
+    4081468832,
+    4081468833,
+    4081468834,
+    4081468839,
+    4081468840,
+    4081468841,
+    4081468842,
+    4081468843,
+    4081468835,
+    4081468836,
+    4081468837,
+    4081468838,
+    4081468844
+  ],
+  "tags": {
+    "building": "yes",
+    "heritage": "1",
+    "heritage:website": "https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=12768&pid=0",
+    "historic": "building",
+    "man_made": "lighthouse",
+    "name": "Point Atkinson Lighthouse",
+    "seamark:information": "Emergency light.",
+    "seamark:landmark:colour": "white;red",
+    "seamark:landmark:colour_pattern": "horizontal",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "33",
+    "seamark:light:number": "386",
+    "seamark:light:period": "5",
+    "seamark:light:range": "15",
+    "seamark:light:reference": "G 5426",
+    "seamark:light:sequence": "0.25+(0.75)+0.25+(3.75)",
+    "seamark:name": "Port Atkinson",
+    "seamark:type": "landmark",
+    "source": "US NGA Pub. 111. 2010-09-02.;bc moscaic imagery",
+    "start_date": "1912",
+    "tourism": "attraction",
+    "wikidata": "Q15267226",
+    "wikipedia": "en:Point Atkinson Lighthouse"
+  }
+},
+{
+  "type": "way",
+  "id": 430128911,
+  "center": {
+    "lat": 48.9433854,
+    "lon": -122.4500498
+  },
+  "nodes": [
+    4293926695,
+    4293926696,
+    4293926697,
+    4293926698,
+    4293926699,
+    4293926700,
+    4293926695
+  ],
+  "tags": {
+    "addr:city": "Lynden",
+    "addr:housenumber": "217",
+    "addr:postcode": "98264",
+    "addr:state": "WA",
+    "addr:street": "Front Street",
+    "building": "yes",
+    "contact:email": "troy@lyndenpioneermuseum.com",
+    "name": "Lynden Pioneer Museum",
+    "opening_hours": "Mo-Sa 10:00-16:00",
+    "phone": "+1-360-354-3675",
+    "source": "geometry=Bing",
+    "tourism": "museum",
+    "website": "http://lyndenpioneermuseum.com"
+  }
+},
+{
+  "type": "way",
+  "id": 435839200,
+  "center": {
+    "lat": 48.9789670,
+    "lon": -122.7908800
+  },
+  "nodes": [
+    4337321696,
+    4337321697,
+    4337321698,
+    4337321699,
+    4337321696
+  ],
+  "tags": {
+    "addr:city": "Blaine",
+    "addr:housenumber": "9261",
+    "addr:state": "WA",
+    "addr:street": "Semiahmoo Parkway",
+    "alt_name": "Alaska Packers Association Museum",
+    "building": "yes",
+    "name": "APA Museum",
+    "opening_hours": "May 25-Sep 08 Fr, Sa, Su 13:00-17:00",
+    "operator": "Drayton Harbor Maritime",
+    "phone": "+1-360-371-3558",
+    "tourism": "museum",
+    "website": "http://www.draytonharbormaritime.org/apa/"
+  }
+},
+{
+  "type": "way",
+  "id": 466223571,
+  "center": {
+    "lat": 49.0238667,
+    "lon": -122.8010520
+  },
+  "nodes": [
+    6581347727,
+    6581347726,
+    6214179606
+  ],
+  "tags": {
+    "bicycle": "permissive",
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway",
+    "name": "Rainbow Crosswalk",
+    "surface": "paved",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 466225887,
+  "center": {
+    "lat": 49.2176057,
+    "lon": -122.9644095
+  },
+  "nodes": [
+    4610854247,
+    4610854248,
+    4610854249,
+    4610854250,
+    4610854251,
+    4610854252,
+    4610854253,
+    4610854254,
+    4610854255,
+    4610854256,
+    4610854257,
+    4610854258,
+    4610854259,
+    4610854260,
+    4610854261,
+    4610854262,
+    4610854263,
+    4610854264,
+    4610854265,
+    4610854266,
+    4610854247
+  ],
+  "tags": {
+    "addr:housenumber": "6688",
+    "addr:street": "Southoaks Crescent",
+    "building": "yes",
+    "name": "Nikkei National Museum & Cultural Centre",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 471554694,
+  "center": {
+    "lat": 49.2064178,
+    "lon": -123.1425414
+  },
+  "nodes": [
+    4657140382,
+    4930315550,
+    4930315548,
+    4930315549,
+    4930315551,
+    4657140383,
+    4930315552,
+    4930315553,
+    4930315554,
+    4930315555,
+    4657140384,
+    4657140385,
+    4930315556,
+    4930315557,
+    4657140382
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "8743",
+    "addr:postcode": "V6P 6A5",
+    "addr:province": "BC",
+    "addr:street": "Southwest Marine Drive",
+    "building": "house",
+    "name": "Colbourne House",
+    "operator": "Marpole Museum & Historical Society",
+    "phone": "+1-604-261-0131",
+    "tourism": "museum",
+    "website": "http://www.marpolehistorical.ca/"
+  }
+},
+{
+  "type": "way",
+  "id": 480503880,
+  "center": {
+    "lat": 49.1436646,
+    "lon": -122.9285937
+  },
+  "nodes": [
+    267688822,
+    8067807451,
+    8067807452,
+    8067807450,
+    8067807453,
+    267688821,
+    8067807454,
+    4141833518,
+    8067807455,
+    4141833514,
+    8067807456,
+    267688820,
+    8067807457,
+    4141833506,
+    8067807458,
+    4141833503,
+    267688819,
+    4141833490,
+    4141833379,
+    4141833375,
+    8048693945,
+    8048693947,
+    8048693948,
+    4141833388,
+    4141833495,
+    4141833498,
+    267688828,
+    8073234310,
+    8073234311,
+    267688825,
+    267688824,
+    4141833527,
+    4141833526,
+    267688823,
+    4141833525,
+    4141833524,
+    267688822
+  ],
+  "tags": {
+    "leisure": "nature_reserve",
+    "name": "Delta Nature Reserve",
+    "operator": "Metro Vancouver",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 504845887,
+  "center": {
+    "lat": 49.1677490,
+    "lon": -122.5721257
+  },
+  "nodes": [
+    3372111584,
+    3329604800,
+    3329604801,
+    3329604802,
+    2479620160,
+    2479620144,
+    2479620148,
+    2479620151,
+    2479620168,
+    3329604798,
+    3329604799,
+    3372111585,
+    3372111584
+  ],
+  "tags": {
+    "addr:housenumber": "23433",
+    "addr:postcode": "V1M 2R5",
+    "addr:street": "Mavis Avenue",
+    "historic": "fort",
+    "name": "Fort Langley",
+    "opening_hours": "Su-Sa 10:00-17:00; Dec 25-Dec 26,Jan 01 off",
+    "phone": "+1-604-513-4777",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 527199296,
+  "center": {
+    "lat": 49.2108315,
+    "lon": -122.5072933
+  },
+  "nodes": [
+    5125829225,
+    5125829143,
+    5125825431,
+    5125824438,
+    5125825432,
+    5125824439,
+    5125829521,
+    5125824440,
+    5125829144,
+    5125829145,
+    5125824466,
+    5125824465,
+    5125829169,
+    5125829146,
+    5125829225
+  ],
+  "tags": {
+    "addr:housenumber": "11450",
+    "addr:street": "256 Street",
+    "alt_name": "Kanaka Creek ¶ Watershed Stewardship Centre",
+    "landuse": "aquaculture",
+    "leisure": "park",
+    "name": "Bell-Irving Fish Hatchery",
+    "operator": "Kanaka Education and Environmental Partnership Society",
+    "tourism": "attraction",
+    "website": "http://www.keeps.org"
+  }
+},
+{
+  "type": "way",
+  "id": 536166240,
+  "center": {
+    "lat": 49.2681863,
+    "lon": -123.0934663
+  },
+  "nodes": [
+    5194706534,
+    7419914282,
+    5194706531,
+    5194706532,
+    5194706533,
+    5194706534
+  ],
+  "tags": {
+    "addr:housenumber": "525",
+    "addr:street": "East 1st Avenue",
+    "building": "yes",
+    "name": "Equinox Gallery",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 575390341,
+  "center": {
+    "lat": 49.3800837,
+    "lon": -123.3339362
+  },
+  "nodes": [
+    5521388979,
+    5521388980,
+    5521388981,
+    5521388982,
+    5521388979
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Gallery @ Cove Commons",
+    "operator": "Bowen Island Arts Council",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 583754860,
+  "center": {
+    "lat": 49.2669929,
+    "lon": -123.2537505
+  },
+  "nodes": [
+    5470278118,
+    5470278422,
+    5580862523,
+    5470278434,
+    5470278118
+  ],
+  "tags": {
+    "addr:city": "Vancouver",
+    "addr:housenumber": "1985",
+    "addr:postcode": "V6T 1Z1",
+    "addr:street": "Learners' Walk",
+    "building": "yes",
+    "inscription": "http://aboriginal.ubc.ca/indian-residential-school-centre/",
+    "memorial": "History_and_Dialogue_Centre",
+    "name": "Indian Residential School History and Dialogue Centre",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 585049442,
+  "center": {
+    "lat": 49.0349143,
+    "lon": -122.3360660
+  },
+  "nodes": [
+    4259839389,
+    5591624424,
+    5591632725,
+    5591637929,
+    5591637921,
+    5591637922,
+    5591632722,
+    5591624426,
+    5591632727,
+    5591637923,
+    5591624425,
+    5591637931,
+    5591637924,
+    5591637930,
+    5591632726,
+    5591638121,
+    5591637925,
+    5591637926,
+    5591632723,
+    5591637927,
+    5591637928,
+    5591632724,
+    4259839389
+  ],
+  "tags": {
+    "addr:housenumber": "1818",
+    "addr:postcode": "V2T 5X4",
+    "addr:street": "Clearbrook Road",
+    "building": "yes",
+    "name": "Mennonite Heritage Museum",
+    "opening_hours": "Mo-Fr 10:00-16:00; Sa 13:00-16:00",
+    "operator": "Mennonite Museum Society",
+    "phone": "+1-604-758-5667",
+    "tourism": "museum",
+    "website": "http://mennonitemuseum.org"
+  }
+},
+{
+  "type": "way",
+  "id": 608163123,
+  "center": {
+    "lat": 49.1269248,
+    "lon": -122.3835786
+  },
+  "nodes": [
+    5762519300,
+    5762519301,
+    5762519299,
+    5762521575,
+    5762522074,
+    5762511900,
+    5762511901,
+    5762519302,
+    5762519300
+  ],
+  "tags": {
+    "addr:city": "Mount Lehman",
+    "addr:housenumber": "6834",
+    "addr:street": "Mount Lehman Road",
+    "landuse": "farmland",
+    "name": "Tuscan Farm Gardens",
+    "tourism": "attraction",
+    "website": "https://www.tuscanfarmgardens.com"
+  }
+},
+{
+  "type": "way",
+  "id": 621949883,
+  "center": {
+    "lat": 49.2821577,
+    "lon": -123.0366560
+  },
+  "nodes": [
+    5875356068,
+    5875356069,
+    6955919168,
+    6955919128,
+    5875356070,
+    5875356071,
+    6955919127,
+    6955919167,
+    5875356068
+  ],
+  "tags": {
+    "building": "roof",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 629546183,
+  "center": {
+    "lat": 49.2130844,
+    "lon": -122.6020874
+  },
+  "nodes": [
+    5943325460,
+    5943325461,
+    5943325462,
+    5943325463,
+    5943325460
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Haney House",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 629546703,
+  "center": {
+    "lat": 49.2103778,
+    "lon": -122.5975617
+  },
+  "nodes": [
+    5943336593,
+    5943336594,
+    5943336595,
+    5943336596,
+    5943336593
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Maple Ridge Museum",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 641420422,
+  "center": {
+    "lat": 49.3102959,
+    "lon": -123.0807694
+  },
+  "nodes": [
+    6040680206,
+    6040680207,
+    6040680208,
+    6040680209,
+    6040680206
+  ],
+  "tags": {
+    "addr:city": "North Vancouver",
+    "addr:housenumber": "101",
+    "addr:street": "Carrie Cates Court",
+    "building": "yes",
+    "name": "The Polygon Gallery",
+    "opening_hours": "Tu-Su 10:00-17:00; Mo off",
+    "tourism": "gallery",
+    "website": "https://thepolygon.ca/"
+  }
+},
+{
+  "type": "way",
+  "id": 681990047,
+  "center": {
+    "lat": 49.2643747,
+    "lon": -123.2154910
+  },
+  "nodes": [
+    6386674513,
+    6386674512,
+    6386674511,
+    6386674510,
+    6386674509,
+    6386674508,
+    6386674507,
+    6386674506,
+    6386674513
+  ],
+  "tags": {
+    "addr:housenumber": "2545",
+    "addr:street": "Blanca Street",
+    "name": "BC Golf Museum and Hall of Fame",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 690848887,
+  "center": {
+    "lat": 49.2827306,
+    "lon": -123.0367556
+  },
+  "nodes": [
+    6481993475,
+    6955967796,
+    6956037601,
+    6481993476,
+    6481993477,
+    6481993478,
+    6481993479,
+    6956037600,
+    6955967795,
+    6481993480,
+    6481993475
+  ],
+  "tags": {
+    "building": "roof",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 717512473,
+  "center": {
+    "lat": 49.2792058,
+    "lon": -122.8510477
+  },
+  "nodes": [
+    6738368830,
+    6738368831,
+    6738368832,
+    6738368833,
+    6738368830
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 717512474,
+  "center": {
+    "lat": 49.2791541,
+    "lon": -122.8510443
+  },
+  "nodes": [
+    6738368833,
+    6738368834,
+    6738368863,
+    6738368835,
+    6738368836,
+    6738368833
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 717512475,
+  "center": {
+    "lat": 49.2790354,
+    "lon": -122.8508915
+  },
+  "nodes": [
+    6738368837,
+    6738368861,
+    6738368838,
+    6738368860,
+    6738368839,
+    6738368840,
+    6738368837
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 866132063,
+  "center": {
+    "lat": 48.9365857,
+    "lon": -122.7330297
+  },
+  "nodes": [
+    8073119158,
+    8073119159,
+    8073119160,
+    8073119161,
+    8073119158
+  ],
+  "tags": {
+    "addr:housenumber": "4620",
+    "addr:street": "Birch Bay Lynden Road3",
+    "alt_name": "Station 49",
+    "name": "Miniature World Family Fun Center",
+    "tourism": "theme_park"
+  }
+}
+
+  ]
+}
