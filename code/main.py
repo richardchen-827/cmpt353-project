@@ -3,6 +3,9 @@
 from distance_calculate import distance_formula,distance_formula_row
 from extract_gps import extractGPS
 from parse_loc import parse_loc
+from read_google_json import out_put_geojson
+import urllib.request
+import geojson
 import pandas as pd
 import numpy as np
 import sys
@@ -335,8 +338,11 @@ def main(imgFileName,travelMode):
 
 	#################put google api to result#################
 	#TODO
-
-	
+	response = urllib.request.urlopen(request_url).read()
+	result = out_put_geojson(visit_place_df,response)
+	output_file = "../result/result_route.geojson"
+	with open(output_file, 'w') as f:
+		geojson.dump(result, f) 
 
 	
 	#print(park)
