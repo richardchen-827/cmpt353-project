@@ -13,7 +13,7 @@ def parse_loc(travel_mode,img_coordinate,visit_place_df):
     visit_place_df['loc_str'] = visit_place_df.apply(get_loc_string,axis=1)
     way_points_list = visit_place_df['loc_str'].tolist()
     
-    print(way_points_list)
+    #print(way_points_list)
     api_url = "https://maps.googleapis.com/maps/api/directions/json?"
     origin = "origin="+img_coordinate+"&"
     destination = "destination="+way_points_list[-1]+"&"
