@@ -14,7 +14,8 @@ import os
 
 
 def main(imgFileName,travelMode):
-	if (travelMode) != "walk" and (travelMode != "bike") and (travelMode !="drive"):
+
+	if ((travelMode != 'walk') and (travelMode != 'bike') and (travelMode != 'drive')):
 		print("\nPlease input the right travel mode (walk, bike or drive)")
 		return
 
