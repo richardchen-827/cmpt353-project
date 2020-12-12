@@ -68,9 +68,9 @@ def main(imgFileName,travelMode):
 		possible_interest = possible_interest.weight.max()
 
 	if (possible_interest > 7):
-		print("User interests in attraction first\n")
+		print("User interests in Tourism first\n")
 	else:
-		print("User interests in food first\n")
+		print("User interests in Restaurant first\n")
 
 	#assign search radius according to travel method
 	search_radius = 0
@@ -324,7 +324,7 @@ def main(imgFileName,travelMode):
 		visit_place_df = pd.DataFrame(visit_place)
 		#print(visit_place_df)
 
-	print("your travle list is:")
+	print("Your Travle list is:")
 	print(visit_place_df[['amenity','name','distance']])
 	result_output_path = "../dataset/result.json"
 	visit_place_df.to_json(result_output_path, orient = 'records',lines=True) 
